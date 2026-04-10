@@ -38,6 +38,13 @@ jobs:
           git diff --cached --quiet || git commit -m 'chore: update daily stock news for '"$(date -u +%Y-%m-%d)"''
           git push
 
+      - name: Ensure stock-news label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create "stock-news" --repo "$GITHUB_REPOSITORY" \
+            --description "Daily stock market news" --color "0E8A16" 2>/dev/null || true
+
       - name: Create GitHub Issue with top story
         if: steps.agent.outputs.story_title != ''
         env:

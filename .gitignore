@@ -2,5 +2,3 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
-output/daily_news.md
-output/latest.json
