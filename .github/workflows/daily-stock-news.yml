@@ -1,0 +1,55 @@
+name: Daily Stock News Agent
+
+on:
+  schedule:
+    # Runs every day at 18:00 UTC (after US market close)
+    - cron: "0 18 * * 1-5"
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run stock news agent
+        id: agent
+        run: python src/stock_news_agent.py
+
+      - name: Commit and push daily news
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet || git commit -m 'chore: update daily stock news for '"$(date -u +%Y-%m-%d)"''
+          git push
+
+      - name: Create GitHub Issue with top story
+        if: steps.agent.outputs.story_title != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STORY_TITLE: ${{ steps.agent.outputs.story_title }}
+          STORY_LINK: ${{ steps.agent.outputs.story_link }}
+          STORY_SOURCE: ${{ steps.agent.outputs.story_source }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BODY=$(printf 'Top stock market story for %s\n\n**Source:** %s\n\n[Read full article](%s)\n\n---\n*Generated automatically by the Daily Stock News Agent*' "$DATE" "$STORY_SOURCE" "$STORY_LINK")
+          gh issue create \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "Stock News $DATE: $STORY_TITLE" \
+            --body "$BODY" \
+            --label "stock-news"
