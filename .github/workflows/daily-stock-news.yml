@@ -1,9 +1,9 @@
 name: Daily Stock News Agent
 
 on:
-  schedule:
-    # Runs every day at 18:00 UTC (after US market close)
-    - cron: "0 18 * * 1-5"
+  # schedule:
+  #   # Runs every day at 18:00 UTC (after US market close)
+  #   - cron: "0 18 * * 1-5"
   workflow_dispatch: # Allow manual trigger
 
 permissions:
