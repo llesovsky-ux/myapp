@@ -43,7 +43,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh label create "stock-news" --repo "$GITHUB_REPOSITORY" \
-            --description "Daily stock market news" --color "0E8A16" 2>/dev/null || true
+            --description "Daily stock market news" --color "0E8A16" --force
 
       - name: Create GitHub Issue with top story
         if: steps.agent.outputs.story_title != ''
