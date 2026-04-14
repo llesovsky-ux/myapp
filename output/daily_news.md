@@ -1,3 +1,19 @@
+## 2026-04-14 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Shows Its Strength; Nvidia, Palantir Make These Moves (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones Industrial Average and other major stock indexes finished Tuesday's session with healthy gains as investors seemed pleased by a lower inflation reading.  Meanwhile, Nvidia saw more positive momentum as Alphabet hit an early buy point on the stock market today.  The Dow closed with a 0.7% gain, or nearly 318 points.
+
+[Read full article](https://finance.yahoo.com/m/654956d3-f14e-33a0-9884-03175b572fbb/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Tue, 14 Apr 2026 20:19:22 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-04-13 - Top Stock Market Story
 
 ### Stock market today: Dow, S&P 500, Nasdaq gain as Trump says Iran wants to talk, software stocks rally
