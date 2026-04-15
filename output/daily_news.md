@@ -1,3 +1,19 @@
+## 2026-04-15 - Top Stock Market Story
+
+### Dow Jones Falls 0.5% as S&P 500, Nasdaq 100 Post Modest Mid-Day Gains
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Big banks are crushing earnings expectations. Meanwhile, the Dow is having a mildly rough Tax Day.
+
+[Read full article](https://www.fool.com/investing/2026/04/15/dow-jones-falls-slightly-amid-iran-tension/?.tsrc=rss)
+
+*Published: Wed, 15 Apr 2026 18:36:26 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-04-14 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Shows Its Strength; Nvidia, Palantir Make These Moves (Live Coverage)
