@@ -1,3 +1,19 @@
+## 2026-04-16 - Top Stock Market Story
+
+### S&P 500 rallies to new record, Spirit Airlines at risk of bankruptcy
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Yahoo Finance Anchor Josh LIpton tracks today's top moving stocks and biggest market stories in this Market Minute, including US stocks (^DJI, ^IXIC, ^GSPC) extending their rally on Thursday, Bloomberg reporting that Spirit Aviation (FLYYQ) could file for bankruptcy, and Voyager Technologies (VOYG) landing a private space mission contract with NASA. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
+
+[Read full article](https://finance.yahoo.com/video/sp-500-rallies-to-new-record-spirit-airlines-at-risk-of-bankruptcy-181237588.html?.tsrc=rss)
+
+*Published: Thu, 16 Apr 2026 18:12:37 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-04-15 - Top Stock Market Story
 
 ### Dow Jones Falls 0.5% as S&P 500, Nasdaq 100 Post Modest Mid-Day Gains
