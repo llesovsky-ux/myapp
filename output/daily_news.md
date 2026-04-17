@@ -1,3 +1,19 @@
+## 2026-04-17 - Top Stock Market Story
+
+### Market rally breakdown: Dow Jones, bitcoin, Tesla, and more
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+On Friday, the Dow Jones Industrial Average (^DJI) surged over 800 points, while both the S&amp;P 500 (^GSPC) and Nasdaq Composite (^IXIC) gained over 1% each. Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the week's biggest market moves, including action from the "Magnificent Seven" (MAGS), semiconductor sector (^SOX), software sector (IGV), CBOE Volatility Index (^VIX), 10-year Treasury yields (^TNX), the US dollar (DX-Y.NYB), bitcoin (BTC-USD), and more.
+
+[Read full article](https://finance.yahoo.com/video/market-rally-breakdown-dow-jones-bitcoin-tesla-and-more-193947251.html?.tsrc=rss)
+
+*Published: Fri, 17 Apr 2026 19:39:47 +0000*
+
+*Relevance score: 21.0*
+
+---
+
 ## 2026-04-16 - Top Stock Market Story
 
 ### S&P 500 rallies to new record, Spirit Airlines at risk of bankruptcy
