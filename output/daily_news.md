@@ -1,3 +1,19 @@
+## 2026-04-20 - Top Stock Market Story
+
+### The S&P 500 closes above 7,000 for the first time, erasing all Iran war losses
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The S&amp;P 500 closed at 7,022.95, its first finish above 7,000, fully recovering losses linked to the recent U.S.-Israel-Iran conflict. The index rose 0.8% and topped its January record, while the Nasdaq Composite ended at a record 24,016.02, up 1.59%. The Dow Jones Industrial Average slipped 72 points but remains up about 5% for the month. Gains have been supported by optimism around a potential U.S.-Iran ceasefire, easing oil prices, and stronger-than-expected corporate earnings. Over the past 11 sessions, the S&amp;P 500 advanced in all but one, with volatility easing and fear gauges stabilizing. Analysts remain cautious as geopolitical tensions persist, oil prices stay elevated, and consumers face pressure from higher fuel costs.
+
+[Read full article](https://qz.com/sp500-record-high-7000-iran-war-losses-041726?.tsrc=rss)
+
+*Published: Mon, 20 Apr 2026 14:41:30 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-04-17 - Top Stock Market Story
 
 ### Market rally breakdown: Dow Jones, bitcoin, Tesla, and more
