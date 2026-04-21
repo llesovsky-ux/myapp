@@ -1,3 +1,19 @@
+## 2026-04-21 - Top Stock Market Story
+
+### Wells Fargo Says Tech Still Looks Compelling – and Suggests 2 Stocks to Buy
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+We’ve been on something of a roller coaster this year. After a sharp selloff into late March as tensions in the Middle East escalated, stocks staged a strong comeback. The S&amp;P 500 surged back to record highs, climbing more than 10% from its lows, while the tech-heavy Nasdaq also logged one of its strongest runs in decades.Claim 30% Off TipRanksUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions Discover top-performing stock ideas and upgrade to a portfolio of
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/wells-fargo-says-tech-still-175903981.html?.tsrc=rss)
+
+*Published: Tue, 21 Apr 2026 17:59:03 +0000*
+
+*Relevance score: 11.0*
+
+---
+
 ## 2026-04-20 - Top Stock Market Story
 
 ### The S&P 500 closes above 7,000 for the first time, erasing all Iran war losses
