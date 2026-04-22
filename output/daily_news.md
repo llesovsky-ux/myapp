@@ -1,3 +1,19 @@
+## 2026-04-22 - Top Stock Market Story
+
+### Bitcoin Rides Tech Sector Gains. Is $100,000 Back in the Cards?
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Bitcoin prices hit their highest levels since early February on Wednesday, extending gains over the past two months.  Investors are looking to play catchup with technology stock gains while betting on a potentially more lucrative environment if Federal Reserve chair nominee Kevin Warsh is confirmed.  Bitcoin  prices have rallied more than 18% since March 30, effectively matching the 18% advance for the tech-focused  index and Magnificent Seven index but trailing more impressive gains for the  benchmark.
+
+[Read full article](https://finance.yahoo.com/m/4377112d-f715-39bf-8255-5bee9ae071e2/bitcoin-rides-tech-sector.html?.tsrc=rss)
+
+*Published: Wed, 22 Apr 2026 19:01:00 +0000*
+
+*Relevance score: 16.0*
+
+---
+
 ## 2026-04-21 - Top Stock Market Story
 
 ### Wells Fargo Says Tech Still Looks Compelling – and Suggests 2 Stocks to Buy
