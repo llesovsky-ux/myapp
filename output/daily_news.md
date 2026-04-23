@@ -1,3 +1,19 @@
+## 2026-04-23 - Top Stock Market Story
+
+### Lam Research Q3 Earnings Call Highlights
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Lam Research (NASDAQ:LRCX) reported March 2026 quarter results that came in at the upper end of guidance ranges, with earnings per share exceeding the top end of the company’s outlook. President and CEO Timothy Archer said the company is “off to a solid start in calendar year 2026,” citing record re
+
+[Read full article](https://www.marketbeat.com/instant-alerts/lam-research-q3-earnings-call-highlights-2026-04-23/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss)
+
+*Published: Thu, 23 Apr 2026 18:38:26 +0000*
+
+*Relevance score: 11.0*
+
+---
+
 ## 2026-04-22 - Top Stock Market Story
 
 ### Bitcoin Rides Tech Sector Gains. Is $100,000 Back in the Cards?
