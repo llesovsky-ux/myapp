@@ -1,3 +1,19 @@
+## 2026-04-24 - Top Stock Market Story
+
+### Intel stock hits record high, Hut 8's Google-backed data center
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Yahoo Finance Senior Producer John Hyland tracks Friday's top moving stocks and biggest market stories. The S&amp;P 500 (^GSPC) is on track for its fourth straight week of gains. Intel (INTC) stock is skyrocketing after the company reported earnings, reaching a new all-time high.  Crypto miner Hut 8 (HUT) is reportedly tapping the bond market to raise money for a Google-backed (GOOG, GOOGL) data center.
+
+[Read full article](https://finance.yahoo.com/video/intel-stock-hits-record-high-hut-8s-google-backed-data-center-171312836.html?.tsrc=rss)
+
+*Published: Fri, 24 Apr 2026 17:13:12 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-04-23 - Top Stock Market Story
 
 ### Lam Research Q3 Earnings Call Highlights
