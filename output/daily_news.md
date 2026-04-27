@@ -1,3 +1,19 @@
+## 2026-04-27 - Top Stock Market Story
+
+### US stocks: Will Mag 7 earnings be make-or-break for market rally?
+
+**Source:** Yahoo! Finance: ^DJI News
+
+US stocks (^DJI, ^IXIC, ^GSPC) are mixed heading into Monday's closing bell as investors gear up for an eventful trading week: Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT) are all scheduled to report quarterly earnings results throughout this week. How could the performances of these Magnificent Seven stocks weigh on the broader market rally seen in April? Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at the stock moves seen in the Magnificent Seven (MAGS), the PHLX Semiconductor Index (^SOX), and the tech sector at large.
+
+[Read full article](https://finance.yahoo.com/video/us-stocks-will-mag-7-earnings-be-make-or-break-for-market-rally-191843442.html?.tsrc=rss)
+
+*Published: Mon, 27 Apr 2026 19:18:43 +0000*
+
+*Relevance score: 18.0*
+
+---
+
 ## 2026-04-24 - Top Stock Market Story
 
 ### Intel stock hits record high, Hut 8's Google-backed data center
