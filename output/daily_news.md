@@ -1,3 +1,19 @@
+## 2026-04-28 - Top Stock Market Story
+
+### Big Tech: What this strategist is looking for on earnings calls
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+US stocks (^DJI, ^IXIC, ^GSPC) closed out Tuesday trading in negative territory, with the Nasdaq Composite leading daily losses as it dropped 0.9%. The pressure may be on for Big Tech as investors await the release of earnings results from Magnificent Seven companies Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT) throughout this week. Laffer Tengler Investments CEO and CIO Nancy Tengler joins Brooke DiPalma to talk about the trends she is seeing in the tech and AI landscapes as earnings season picks up.
+
+[Read full article](https://finance.yahoo.com/video/big-tech-what-this-strategist-is-looking-for-on-earnings-calls-204304094.html?.tsrc=rss)
+
+*Published: Tue, 28 Apr 2026 20:43:04 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-04-27 - Top Stock Market Story
 
 ### US stocks: Will Mag 7 earnings be make-or-break for market rally?
