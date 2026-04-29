@@ -1,3 +1,19 @@
+## 2026-04-29 - Top Stock Market Story
+
+### Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers After Oil Prices Spike, Fed's Powell Stays
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Futures fell as Amazon, Microsoft and Meta slumped on earnings. Google rose. Oil prices are surging while Fed's Powell is staying.
+
+[Read full article](https://finance.yahoo.com/m/fb01687d-2e7a-3280-8daf-89487aed782f/dow-jones-futures%3A-google%2C.html?.tsrc=rss)
+
+*Published: Wed, 29 Apr 2026 21:23:26 +0000*
+
+*Relevance score: 17.5*
+
+---
+
 ## 2026-04-28 - Top Stock Market Story
 
 ### Big Tech: What this strategist is looking for on earnings calls
