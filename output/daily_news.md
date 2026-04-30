@@ -1,3 +1,19 @@
+## 2026-04-30 - Top Stock Market Story
+
+### How major US stock indexes fared Thursday 4/30/2026
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones Industrial Average jumped 1.6%, and the Nasdaq composite climbed 0.9% to its own record. Alphabet led the way after the owner of Google and YouTube reported profit for the start of 2026 that blew past analysts' expectations. The gains came after the latest whipsaw moves for oil prices, which surged toward their highest levels since the war with Iran began only to quickly regress.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201719608.html?.tsrc=rss)
+
+*Published: Thu, 30 Apr 2026 20:17:19 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-04-29 - Top Stock Market Story
 
 ### Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers After Oil Prices Spike, Fed's Powell Stays
