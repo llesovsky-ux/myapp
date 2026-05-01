@@ -1,3 +1,19 @@
+## 2026-05-01 - Top Stock Market Story
+
+### The S&P 500 Just Had Its Best Month Since 2020. Don’t Let ‘Sell in May’ Spook You.
+
+**Source:** Yahoo! Finance: ^DJI News
+
+There was a lot that could have made the stock market fall.  Investors shrugged off questions about when—or even if—the Federal Reserve would cut interest rates again this year after the central bank held rates steady, and they ignored the fact that Jerome Powell plans to stay on the Fed’s Board of Governors even as Kevin Warsh prepares to become chair. Inflation came in hot as oil prices continued to rise, and earnings from  Microsoft  and  Meta Platforms  revealed sizable capital spending increases—and resulted in falling stocks.  Eli Lilly  earnings offered evidence that weight-loss drugs were only getting bigger;  Coca-Cola’s  beat showed that not all soft-drink makers are suffering from an Ozempic overhang;  Alphabet’s  capital spending paid off with big profits; and  Caterpillar’s  numbers demonstrated that there’s more to its business than mining and machinery.
+
+[Read full article](https://finance.yahoo.com/m/ecefa965-fcd8-3695-a1ee-9de86ce5012a/the-s%26p-500-just-had-its-best.html?.tsrc=rss)
+
+*Published: Fri, 01 May 2026 17:17:00 +0000*
+
+*Relevance score: 23.0*
+
+---
+
 ## 2026-04-30 - Top Stock Market Story
 
 ### How major US stock indexes fared Thursday 4/30/2026
