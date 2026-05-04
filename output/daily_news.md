@@ -1,3 +1,19 @@
+## 2026-05-04 - Top Stock Market Story
+
+### These Stocks Are Today’s Movers: Coinbase, AMD, Palantir, Tesla, eBay, GameStop, FedEx, UPS, Micron, and More
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+STOCKSTOWATCHTODAY BLOG  Stocks fell Monday and oil prices rose after the United Arab Emirates’ Ministry of Defense said it detected four missiles coming from Iran. Earlier, the U.S. military’s Central Command denied a report that Iran had struck an American warship in the Strait of Hormuz.
+
+[Read full article](https://finance.yahoo.com/m/bf397f98-7506-3408-ae60-4cae99313630/these-stocks-are-today%E2%80%99s.html?.tsrc=rss)
+
+*Published: Mon, 04 May 2026 20:57:00 +0000*
+
+*Relevance score: 11.0*
+
+---
+
 ## 2026-05-01 - Top Stock Market Story
 
 ### The S&P 500 Just Had Its Best Month Since 2020. Don’t Let ‘Sell in May’ Spook You.
