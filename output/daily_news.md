@@ -1,3 +1,19 @@
+## 2026-05-05 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq, S&P 500 End At Record Highs As Techs Rise; Intel Shares Surge (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones index rose Tuesday amid rising U.S.-Iran tensions. Palantir stock sold off on earnings.
+
+[Read full article](https://finance.yahoo.com/m/74413965-709f-3e0f-9948-a4177b6be6de/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss)
+
+*Published: Tue, 05 May 2026 20:54:55 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-05-04 - Top Stock Market Story
 
 ### These Stocks Are Today’s Movers: Coinbase, AMD, Palantir, Tesla, eBay, GameStop, FedEx, UPS, Micron, and More
