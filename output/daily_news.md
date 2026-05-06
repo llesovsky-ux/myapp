@@ -1,3 +1,19 @@
+## 2026-05-06 - Top Stock Market Story
+
+### Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+As the Nasdaq continues to notch new highs, Nvidia, Apple, ASML, Walmart and more come into focus as buy zones emerge.
+
+[Read full article](https://finance.yahoo.com/m/d7f01962-f038-31a4-8b4c-00047479796c/apple%2C-nvidia%2C-broadcom-and.html?.tsrc=rss)
+
+*Published: Wed, 06 May 2026 20:06:25 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-05-05 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq, S&P 500 End At Record Highs As Techs Rise; Intel Shares Surge (Live Coverage)
