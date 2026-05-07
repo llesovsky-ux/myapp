@@ -1,3 +1,19 @@
+## 2026-05-07 - Top Stock Market Story
+
+### Stock Market Today: Dow Falls 313 Points, Nasdaq Cut Losses; IBD 50 Leader SiTime Soars But Fastly Plunges (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Stock Market Today: The Dow Jones index rose early Thursday on a weekly jobless claims report but reversed lower. AI stock Arm dived on earnings.
+
+[Read full article](https://finance.yahoo.com/m/6df9343e-bdd6-3212-ad42-4ad18116fb79/stock-market-today%3A-dow-falls.html?.tsrc=rss)
+
+*Published: Thu, 07 May 2026 20:34:45 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-05-06 - Top Stock Market Story
 
 ### Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch
