@@ -1,3 +1,19 @@
+## 2026-05-08 - Top Stock Market Story
+
+### Market Talk: Soaring chip stocks 'can go even higher from here'
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+STORY: :: Lisa Bernhard, Reuters:: Ross Mayfield, Investment Strategist, BairdThe S&amp;P 500 and the Nasdaq rallied to record highs on Friday, boosted by gains in semiconductor stocks, while a stronger-than-expected jobs report pointed to labor market resilience.Speaking with Reuters' Lisa Bernhard, Mayfield said that with April's nonfarm payrolls data "building on last month's strong report... you start to feel like maybe the labor market is turning a corner."Meanwhile, shares of Intel joined the chip rally late Friday, soaring as high as 19%, after the Wall Street Journal reported on Friday that the company had reached a preliminary deal to make some chips for Apple devices."I certainly wouldn't want to stand in front of this momentum-driven sector," Mayfield said of the recent chip rally. "In my mind, it can't be a bubble if earnings are keeping up with price."
+
+[Read full article](https://finance.yahoo.com/video/market-talk-soaring-chip-stocks-201200009.html?.tsrc=rss)
+
+*Published: Fri, 08 May 2026 20:12:00 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-05-07 - Top Stock Market Story
 
 ### Stock Market Today: Dow Falls 313 Points, Nasdaq Cut Losses; IBD 50 Leader SiTime Soars But Fastly Plunges (Live Coverage)
