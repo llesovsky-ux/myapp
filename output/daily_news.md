@@ -1,3 +1,19 @@
+## 2026-05-11 - Top Stock Market Story
+
+### S&P 500 Hits Record Despite Iran Cease-Fire Concerns. Oil and Tech Stocks Rally.
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The phrase, emerging from Southeast Asia, is the best way to describe the market action on Monday.  The S&amp;P 500 rose 0.2% while the tech-heavy Nasdaq was up 0.1%.  Investors had seen the S&amp;P 500 and Nasdaq finish at a record last week as well.
+
+[Read full article](https://finance.yahoo.com/m/1e1bf0cd-2031-3a57-8c6e-1e07f9829b02/s%26p-500-hits-record-despite.html?.tsrc=rss)
+
+*Published: Mon, 11 May 2026 20:01:57 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-05-08 - Top Stock Market Story
 
 ### Market Talk: Soaring chip stocks 'can go even higher from here'
