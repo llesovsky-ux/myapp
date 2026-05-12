@@ -1,3 +1,19 @@
+## 2026-05-12 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Slides On $100 Oil, Higher Inflation; Qualcomm Makes Huge Move (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Nasdaq composite sinks as oil prices topped $101 and CPI inflation picked up. A bitcoin miner slides after the earnings numbers.
+
+[Read full article](https://finance.yahoo.com/m/05d937e7-3189-3e30-a046-88b8b65cbef4/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Tue, 12 May 2026 18:21:08 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-05-11 - Top Stock Market Story
 
 ### S&P 500 Hits Record Despite Iran Cease-Fire Concerns. Oil and Tech Stocks Rally.
