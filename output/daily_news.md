@@ -1,3 +1,19 @@
+## 2026-05-13 - Top Stock Market Story
+
+### Stock Market Today: Dow Jones Futures Fall, Nasdaq Gains As Trump Takes Big Tech Leaders To China— Nvidia, Nextpower, Red Cat In Focus (UPDATED)
+
+**Source:** Yahoo! Finance: ^DJI News
+
+(Editor’s note: The future prices of benchmark tracking ETFs, and the headline, the lede and the economic were updated in the story.) U.S. stock futures were mixed on Wednesday after Monday’s mostly lower close. Dow Jones futures fell, whereas S&amp;P 500 and Nasdaq 100 indices were rising. This follows President Donald Trump‘s visit to China along with Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang, Tesla Inc.‘s (NASDAQ:TSLA) Elon Musk, Apple Inc.’s (NASDAQ:AAPL) Tim Cook, BlackRock Inc.‘s (NYSE:BLK)
+
+[Read full article](https://finance.yahoo.com/news/stock-market-today-dow-jones-094209448.html?.tsrc=rss)
+
+*Published: Wed, 13 May 2026 12:52:55 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-05-12 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Slides On $100 Oil, Higher Inflation; Qualcomm Makes Huge Move (Live Coverage)
