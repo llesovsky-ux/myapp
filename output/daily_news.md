@@ -1,3 +1,19 @@
+## 2026-05-14 - Top Stock Market Story
+
+### S&P 500, Nasdaq eye records as Cisco stock surges
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Cisco stock jumped on strong earnings and job cuts, while chip maker Cerebras Systems made its market debut with a $5.55 billion IPO
+
+[Read full article](https://qz.com/sp500-nasdaq-records-cisco-trump-xi-summit-051426?.tsrc=rss)
+
+*Published: Thu, 14 May 2026 11:39:30 +0000*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-05-13 - Top Stock Market Story
 
 ### Stock Market Today: Dow Jones Futures Fall, Nasdaq Gains As Trump Takes Big Tech Leaders To China— Nvidia, Nextpower, Red Cat In Focus (UPDATED)
