@@ -1,3 +1,19 @@
+## 2026-05-15 - Top Stock Market Story
+
+### Stock Market Today: Dow, Nasdaq Sink As Yields, Oil Prices Pop; Ford Plunges After Rally (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The major indexes fall as oil prices and Treasury yields jump. Apple and Starbucks are in buy zones while Nvidia is a big Dow loser.
+
+[Read full article](https://finance.yahoo.com/m/47f1666e-95d4-337b-9d67-55a5c92a5ade/stock-market-today%3A-dow%2C.html?.tsrc=rss)
+
+*Published: Fri, 15 May 2026 17:52:02 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-05-14 - Top Stock Market Story
 
 ### S&P 500, Nasdaq eye records as Cisco stock surges
