@@ -1,3 +1,19 @@
+## 2026-05-18 - Top Stock Market Story
+
+### Michael Burry Warns of a Nasdaq Dot-Com Bubble: Is Bitcoin a Hedge or Casualty?
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+The man who saw the 2008 housing crash coming before anyone else is raising his hand again, and this time, the target is the AI-driven tech rally that has sent the Nasdaq soaring to levels not seen since the final, frenzied months of the dot-com bubble. Michael Burry, the hedge fund manager immortalized in “The ... Michael Burry Warns of a Nasdaq Dot-Com Bubble: Is Bitcoin a Hedge or Casualty?
+
+[Read full article](https://247wallst.com/investing/2026/05/18/michael-burry-warns-of-a-nasdaq-dot-com-bubble-is-bitcoin-a-hedge-or-casualty/?.tsrc=rss)
+
+*Published: Mon, 18 May 2026 14:04:49 +0000*
+
+*Relevance score: 14.0*
+
+---
+
 ## 2026-05-15 - Top Stock Market Story
 
 ### Stock Market Today: Dow, Nasdaq Sink As Yields, Oil Prices Pop; Ford Plunges After Rally (Live Coverage)
