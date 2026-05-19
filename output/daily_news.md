@@ -1,3 +1,19 @@
+## 2026-05-19 - Top Stock Market Story
+
+### Nvidia shares set for $350 billion price swing after earnings, options show
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Traders are pricing in a $355 billion swing in Nvidia's market value after the company reports first-quarter earnings on Wednesday, according to options positions that indicate the market is ‌still bullish on the AI giant while keen to protect gains.  The chipmaker's options imply a move of about ‌6.5% in either direction on Thursday, a day after the company reports results.  That would translate into a swing of roughly $350 billion in market capitalization - more ​than the individual market value of about 90% of S&amp;P 500 constituents.
+
+[Read full article](https://finance.yahoo.com/markets/options/articles/nvidia-shares-set-350-billion-172752881.html?.tsrc=rss)
+
+*Published: Tue, 19 May 2026 17:27:52 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-05-18 - Top Stock Market Story
 
 ### Michael Burry Warns of a Nasdaq Dot-Com Bubble: Is Bitcoin a Hedge or Casualty?
