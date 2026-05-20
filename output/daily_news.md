@@ -1,3 +1,19 @@
+## 2026-05-20 - Top Stock Market Story
+
+### These 2 AI Giants Have Been Dormant. That’s Exactly Why They Might Surprise Investors
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The AI trade has had favorites. NVIDIA, Microsoft, Alphabet, and Meta have carried the narrative, while two enterprise tech giants have quietly compounded earnings and built backlogs that few retail investors are talking about. With the S&amp;P 500 up 8% year to date, the setup for these laggards looks asymmetric heading into the back half ... These 2 AI Giants Have Been Dormant. That’s Exactly Why They Might Surprise Investors
+
+[Read full article](https://247wallst.com/investing/2026/05/20/these-2-ai-giants-have-been-dormant-thats-exactly-why-they-might-surprise-investors/?.tsrc=rss)
+
+*Published: Wed, 20 May 2026 19:41:25 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-05-19 - Top Stock Market Story
 
 ### Nvidia shares set for $350 billion price swing after earnings, options show
