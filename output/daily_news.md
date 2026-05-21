@@ -1,3 +1,19 @@
+## 2026-05-21 - Top Stock Market Story
+
+### Are investors more concerned with Iran than Nvidia's Q1 earnings?
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+US stocks (^DJI, ^IXIC, ^GSPC) — namely the Dow Jones Industrial Average — are gaining back some ground ahead of Thursday's close as investors continue to digest Nvidia's (NVDA) first quarter earnings. The AI chip stock's movement has largely been muted despite the company boasting record quarterly revenue ($81.62 billion). Gradient Investments senior portfolio manager Keith Gangl weighs in on how investors are viewing Nvidia's results through the broader lens of geopolitical pressures stemming from the US-Iran war. Catch up on the top moments from Nvidia's earnings call, as well as what Nvidia CFO Colette Kress told Yahoo Finance about the company's CPU sales forecasts.
+
+[Read full article](https://finance.yahoo.com/video/are-investors-more-concerned-with-iran-than-nvidias-q1-earnings-193135672.html?.tsrc=rss)
+
+*Published: Thu, 21 May 2026 19:31:35 +0000*
+
+*Relevance score: 16.0*
+
+---
+
 ## 2026-05-20 - Top Stock Market Story
 
 ### These 2 AI Giants Have Been Dormant. That’s Exactly Why They Might Surprise Investors
