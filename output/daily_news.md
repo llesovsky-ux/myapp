@@ -1,3 +1,19 @@
+## 2026-05-22 - Top Stock Market Story
+
+### Stocks gain, oil higher as investors weigh Mideast peace prospects
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Stocks pushed higher Friday while oil prices rose as traders tracked headlines on the chances for peace in the Middle East, against a backdrop of corporate earnings optimism and AI enthusiasm that have pushed indexes to record highs.Wall Street moved broadly higher after the Dow Jones reached an all-time high Thursday, despite concerns that soaring energy prices will stoke inflation and lead central banks to hike interest rates.
+
+[Read full article](https://finance.yahoo.com/markets/world-indices/articles/asian-equities-climb-mideast-optimism-031145815.html?.tsrc=rss)
+
+*Published: Fri, 22 May 2026 16:00:28 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-05-21 - Top Stock Market Story
 
 ### Are investors more concerned with Iran than Nvidia's Q1 earnings?
