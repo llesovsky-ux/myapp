@@ -1,3 +1,19 @@
+## 2026-05-25 - Top Stock Market Story
+
+### Global Growth Companies Insiders Favor With Up To 40% Earnings Growth
+
+**Source:** Yahoo! Finance: ^DJI News
+
+As global markets navigate a complex landscape marked by record-low U.S. consumer sentiment, rising inflation pressures, and geopolitical uncertainties, major indices like the Dow Jones and S&amp;P 500 have nevertheless reached new heights. Amidst this backdrop, investors are increasingly drawn to growth companies with high insider ownership—an indicator that can signal confidence in a company's potential to achieve substantial earnings growth even in challenging economic conditions.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/global-growth-companies-insiders-favor-093557426.html?.tsrc=rss)
+
+*Published: Mon, 25 May 2026 09:35:57 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-05-22 - Top Stock Market Story
 
 ### Stocks gain, oil higher as investors weigh Mideast peace prospects
