@@ -1,3 +1,19 @@
+## 2026-05-27 - Top Stock Market Story
+
+### Goldman Raises S&P 500 Target, Sees 17% Upside This Year
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+AI-driven earnings growth pushed Goldman Sachs to lift its S&amp;P 500 target to 8,000 from 7,600.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/goldman-raises-p-500-target-183150981.html?.tsrc=rss)
+
+*Published: Wed, 27 May 2026 18:31:50 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-05-26 - Top Stock Market Story
 
 ### Is Bitcoin a Good Long-Term Investment for Beginners?
