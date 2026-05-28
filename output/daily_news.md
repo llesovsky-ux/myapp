@@ -1,3 +1,19 @@
+## 2026-05-28 - Top Stock Market Story
+
+### Snowflake, Unusual Machines, Nvidia, and More Stocks That Explain the Market Today
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The  remained little changed while the  and the tech-heavy Nasdaq Composite rose 0.6% and 0.8%, respectively, after Axios reported the U.S. and Iran have reached a peace deal that requires approval from President Donald Trump.  Oil prices also pared earlier advances on the peace deal headlines.  Snowflake stock surged 37% after fiscal first-quarter profit smashed Wall Street’s target, potentially dispelling fears that artificial intelligence would destroy its business.
+
+[Read full article](https://finance.yahoo.com/m/bf8a1a7c-7d2a-3ee4-96b7-c9c69a4e73e7/snowflake%2C-unusual-machines%2C.html?.tsrc=rss)
+
+*Published: Thu, 28 May 2026 17:10:00 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-05-27 - Top Stock Market Story
 
 ### Goldman Raises S&P 500 Target, Sees 17% Upside This Year
