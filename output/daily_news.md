@@ -1,3 +1,19 @@
+## 2026-05-29 - Top Stock Market Story
+
+### S&P 500, Nasdaq, Dow Jones Touch Record Highs as Trump Close to Making Decision on Iran Peace Deal
+
+**Source:** Yahoo! Finance: ^DJI News
+
+US equity indexes rose, with all three mainstream gauges hitting intraday record highs amid a surge
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-jones-160641338.html?.tsrc=rss)
+
+*Published: Fri, 29 May 2026 16:06:41 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-05-28 - Top Stock Market Story
 
 ### Snowflake, Unusual Machines, Nvidia, and More Stocks That Explain the Market Today
