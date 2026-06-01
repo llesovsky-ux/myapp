@@ -1,3 +1,19 @@
+## 2026-06-01 - Top Stock Market Story
+
+### Nvidia Jumps on Vera Rubin News, but Market Indexes Stay Close to Flat Anyhow
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Nvidia announced its next-gen AI platform and surged 5%. But Apple, Amazon, Tesla, and Meta didn't get invited to the party, and oil prices are up. As a result, the top market indexes barely moved today.
+
+[Read full article](https://www.fool.com/investing/2026/06/01/nvidia-jumps-on-vera-rubin-news-but-market-indexes/?.tsrc=rss)
+
+*Published: Mon, 01 Jun 2026 17:58:46 +0000*
+
+*Relevance score: 17.5*
+
+---
+
 ## 2026-05-29 - Top Stock Market Story
 
 ### S&P 500, Nasdaq, Dow Jones Touch Record Highs as Trump Close to Making Decision on Iran Peace Deal
