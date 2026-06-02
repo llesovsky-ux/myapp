@@ -1,3 +1,19 @@
+## 2026-06-02 - Top Stock Market Story
+
+### How major US stock indexes fared Tuesday 6/2/2026
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones Industrial Average added 0.4%, and the Nasdaq composite rose less than 0.1%.  Marvell Technology leaped to its biggest gain on record after Nvidia’s CEO suggested it could be the next company to be worth $1 trillion.  The Nasdaq composite rose 7.09 points, or less than 0.1%, to 27,093.90.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201528836.html?.tsrc=rss)
+
+*Published: Tue, 02 Jun 2026 20:15:28 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-06-01 - Top Stock Market Story
 
 ### Nvidia Jumps on Vera Rubin News, but Market Indexes Stay Close to Flat Anyhow
