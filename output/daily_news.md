@@ -1,3 +1,19 @@
+## 2026-06-03 - Top Stock Market Story
+
+### Vanguard’s S&P 500 ETF Just Hit $1 Trillion in Assets
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+VOO officially crossed the line on Tuesday, Vanguard said.  The ETF’s rivals from BlackRock and State Street have some catching up to do.  BlackRock’s  has $859 billion in assets under management and the  the first U.S. ETF to debut back in 1993, has $785 billion, according to ETF Database.
+
+[Read full article](https://finance.yahoo.com/m/d6451d24-bd2f-3225-a2eb-9f94e32f6716/vanguard%E2%80%99s-s%26p-500-etf-just.html?.tsrc=rss)
+
+*Published: Wed, 03 Jun 2026 18:57:00 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-06-02 - Top Stock Market Story
 
 ### How major US stock indexes fared Tuesday 6/2/2026
