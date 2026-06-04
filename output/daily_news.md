@@ -1,3 +1,19 @@
+## 2026-06-04 - Top Stock Market Story
+
+### Nasdaq Ticks Higher. Dow Climbs More Than 800 Points in Broad Rally.
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow surged back to record levels on Thursday as big financial stocks provided a boost.  The blue-chip index rose 814 points or 1.6%, on pace for a closing high and its biggest percentage gain since April.  If the Dow closes at a record today, it would mark its 15th record in 2026.
+
+[Read full article](https://finance.yahoo.com/m/46908f5f-425d-3ff9-bef0-efe540aa5971/nasdaq-ticks-higher.-dow.html?.tsrc=rss)
+
+*Published: Thu, 04 Jun 2026 18:03:29 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-06-03 - Top Stock Market Story
 
 ### Vanguard’s S&P 500 ETF Just Hit $1 Trillion in Assets
