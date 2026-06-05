@@ -1,3 +1,19 @@
+## 2026-06-05 - Top Stock Market Story
+
+### S&P 500 set for worst day this year on AI weakness, rising odds for Fed rate hikes
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Investors sold off stocks, bonds, bitcoin and gold Friday after a strong jobs report boosted odds the Federal Reserve might raise interest rates later this year to combat inflation and Wall Street wrestled with weakness in AI stocks.
+
+[Read full article](https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed?.tsrc=rss)
+
+*Published: Fri, 05 Jun 2026 18:43:34 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-06-04 - Top Stock Market Story
 
 ### Nasdaq Ticks Higher. Dow Climbs More Than 800 Points in Broad Rally.
