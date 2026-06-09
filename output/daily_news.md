@@ -1,3 +1,19 @@
+## 2026-06-09 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Sinks As Trump Pledges Response To Iran; Credo Technology Advances (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Selling intensity tapered off Tuesday afternoon, paring losses that followed President Donald Trump's pledge to "respond" to what he said was Iran's shooting of an Apache helicopter. Equities also fell ahead of inflation data that could support the Federal Reserve raising interest rates this year.
+
+[Read full article](https://finance.yahoo.com/m/71c85e22-1ecc-3887-994b-fafd66da9153/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Tue, 09 Jun 2026 19:16:01 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-06-08 - Top Stock Market Story
 
 ### Infrastructure Capital QVOL ETF targeting growth and income opportunities
