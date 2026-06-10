@@ -1,3 +1,19 @@
+## 2026-06-10 - Top Stock Market Story
+
+### Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others
+
+**Source:** US Top News and Analysis
+
+Investors have rushed to back companies in the physical AI space
+
+[Read full article](https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html)
+
+*Published: Wed, 10 Jun 2026 17:03:30 GMT*
+
+*Relevance score: 10.0*
+
+---
+
 ## 2026-06-09 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Sinks As Trump Pledges Response To Iran; Credo Technology Advances (Live Coverage)
