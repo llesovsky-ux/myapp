@@ -1,3 +1,19 @@
+## 2026-06-11 - Top Stock Market Story
+
+### Dow Jones and S&P 500 Climb Thursday as Wall Street Shakes Off Three-Day Slump Before SpaceX IPO
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Wall Street snapped a three-day losing streak on Thursday, but the rally lost steam by midday. Hot inflation data and Middle East tensions are keeping investors cautious ahead of SpaceX's historic IPO.
+
+[Read full article](https://www.fool.com/investing/2026/06/11/dow-jones-and-sp-500-climb-thursday-as-wall-street/?.tsrc=rss)
+
+*Published: Thu, 11 Jun 2026 17:21:33 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-06-10 - Top Stock Market Story
 
 ### Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others
