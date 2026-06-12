@@ -1,3 +1,19 @@
+## 2026-06-12 - Top Stock Market Story
+
+### SpaceX IPO Crowds Pre-Market Sentiment
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Currently valued between 1.75-2.00 trillion in market capitalization, today's IPO is underwritten by Goldman Sachs (GS) and is expected to raise $75 billion.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-crowds-pre-market-143500908.html?.tsrc=rss)
+
+*Published: Fri, 12 Jun 2026 14:35:00 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-06-11 - Top Stock Market Story
 
 ### Dow Jones and S&P 500 Climb Thursday as Wall Street Shakes Off Three-Day Slump Before SpaceX IPO
