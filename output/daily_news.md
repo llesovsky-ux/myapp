@@ -1,3 +1,19 @@
+## 2026-06-15 - Top Stock Market Story
+
+### Dow Jones Hits Record, Nasdaq Jumps 3% as Iran Deal Lifts Markets
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Stocks surged Monday on news of a U.S.-Iran ceasefire deal. SpaceX added another $239 billion in market cap for good measure.
+
+[Read full article](https://www.fool.com/investing/2026/06/15/headline-ideas-related-to-market-indexes-either-as/?.tsrc=rss)
+
+*Published: Mon, 15 Jun 2026 17:58:23 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-06-12 - Top Stock Market Story
 
 ### SpaceX IPO Crowds Pre-Market Sentiment
