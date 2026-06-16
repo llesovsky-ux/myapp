@@ -1,3 +1,19 @@
+## 2026-06-16 - Top Stock Market Story
+
+### Top Midday Stories: SpaceX Surpasses Amazon in Market Cap; Yum! Brands to Sell Pizza Hut for $2.7 Billion
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The Dow Jones Industrial Average was up, while the S&amp;P 500 Index and Nasdaq Composite were down in l
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-spacex-surpasses-154253578.html?.tsrc=rss)
+
+*Published: Tue, 16 Jun 2026 15:42:53 +0000*
+
+*Relevance score: 12.5*
+
+---
+
 ## 2026-06-15 - Top Stock Market Story
 
 ### Dow Jones Hits Record, Nasdaq Jumps 3% as Iran Deal Lifts Markets
