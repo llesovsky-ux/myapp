@@ -1,3 +1,19 @@
+## 2026-06-17 - Top Stock Market Story
+
+### Crypto Traders Are Wagering on SpaceX’s IPO Market Cap — Biggest Payouts Could Top 100x
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+s SpaceX's IPO raised a record $85.7 billion. Crypto traders are betting on a valuation of multi-trillions. Analysts remain cautious despite the rally. Crypto traders ...
+
+[Read full article](https://www.ccn.com/news/crypto/crypto-traders-wagering-spacexs-ipo-market-cap/?.tsrc=rss)
+
+*Published: Wed, 17 Jun 2026 14:32:15 +0000*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-06-16 - Top Stock Market Story
 
 ### Top Midday Stories: SpaceX Surpasses Amazon in Market Cap; Yum! Brands to Sell Pizza Hut for $2.7 Billion
