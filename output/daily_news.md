@@ -1,3 +1,19 @@
+## 2026-06-18 - Top Stock Market Story
+
+### SpaceX Stock Plunges Despite Getting 2 Big Price Targets
+
+**Source:** Yahoo! Finance: ^DJI News
+
+SpaceX  stock fell Thursday for a second straight day.  Shares of Elon Musk’s AI-rocket business were off 10.1% at $172.50 in midday trading, after starting 1% up in premarket trading.  The  fell 1.3% after the Federal Reserve held interest rates steady and retail sales numbers showed some discretionary spending weakness.
+
+[Read full article](https://finance.yahoo.com/m/f90426ea-5909-3c8d-b3eb-6821fb331653/spacex-stock-plunges-despite.html?.tsrc=rss)
+
+*Published: Thu, 18 Jun 2026 17:05:00 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-06-17 - Top Stock Market Story
 
 ### Crypto Traders Are Wagering on SpaceX’s IPO Market Cap — Biggest Payouts Could Top 100x
