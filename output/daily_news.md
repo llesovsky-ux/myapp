@@ -1,3 +1,19 @@
+## 2026-06-19 - Top Stock Market Story
+
+### Wall Street ends higher on boost from chips, Iran optimism
+
+**Source:** Yahoo! Finance: ^DJI News
+
+STORY: Wall Street's main indexes closed higher on Thursday, with the Dow ticking up more than a tenth of a percent, the S&amp;P 500 adding more than 1% and the Nasdaq gaining nearly 2%.The session began with oil prices sliding to their lowest levels since early March after the U.S. and Iran signed an interim agreement that extends the April ceasefire by another 60 days.But Alexander Morris, CEO and chief investment officer at F/m Investments, warns that lower oil prices won't immediately ease other inflationary pressures."Certainly energy prices are set to come down and meaningfully so in the short run. But energy prices have been elevated for a while, and that influences way more than just the cost at the pump. That's the cost of fertilizer for the Northern Hemisphere. All of the plants that needed to be planted and immediately fertilized, they've been in the ground for weeks. So that is now baked into the price of our future soft commodities, grains, corn, soybeans, et cetera. So we're going to see this reverberate."Investors on Thursday were still assessing Kevin Warsh's first press conference as Federal Reserve Chair a day earlier, in which he stressed the central bank would keep its focus on price stability but provide less guidance on the path of interest rates.:: Archive:: IntelAmong individual stock moves, semiconductor companies outperformed the rest of the market, with Intel's shares jumping more than 10.5% to a record high. President Donald Trump said Apple had agreed to work with Intel to design and manufacture its chips in the U.S. Shares of Elon Musk's SpaceX shed 3.5%, falling for a second straight day. The stock had rallied sharply earlier in the week following last Friday's blockbuster market debut.And shares of Kroger tumbled almost 8.5% after the grocer reported a lower-than-expected quarterly profit and kept its annual forecasts unchanged.The U.S. stock and bond markets will be closed on Friday for the Juneteenth holiday.
+
+[Read full article](https://finance.yahoo.com/video/wall-street-ends-higher-boost-223205315.html?.tsrc=rss)
+
+*Published: Thu, 18 Jun 2026 22:32:05 +0000*
+
+*Relevance score: 23.0*
+
+---
+
 ## 2026-06-18 - Top Stock Market Story
 
 ### SpaceX Stock Plunges Despite Getting 2 Big Price Targets
