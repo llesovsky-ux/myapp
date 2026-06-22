@@ -1,3 +1,19 @@
+## 2026-06-22 - Top Stock Market Story
+
+### The Magnificent 7 Selloff Is a Rare Buying Opportunity
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Each of these stocks—  Nvidia Tesla Apple Meta Platforms Alphabet Amazon.com  and  Microsoft  —is down this month, but many indicators show that dip-buyers should come in soon.  Nvidia  has underperformed the rest of the chip universe since mid May, partly because other chip makers are selling general purpose artificial intelligence chips for companies’ data centers, threatening Nvidia’s market share.  Apple is trying to prove it can maintain respectable sales growth (maybe its new AI strategy can help).
+
+[Read full article](https://finance.yahoo.com/m/d2985ddc-72b1-3f9d-8337-9b16f3b50a28/the-magnificent-7-selloff-is.html?.tsrc=rss)
+
+*Published: Mon, 22 Jun 2026 18:46:00 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-06-19 - Top Stock Market Story
 
 ### Wall Street ends higher on boost from chips, Iran optimism
