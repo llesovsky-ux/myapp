@@ -1,3 +1,19 @@
+## 2026-06-23 - Top Stock Market Story
+
+### Wall Street Drags S&P 500 Targets Higher, Warning the Rally Is Riskier Than Ever
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Two of the biggest U.S. investment banks see increasing risks tied to Federal Reserve rate forecasts, an uneasy peace agreement between the U.S. and Iran, and questions over the fate of the artificial intelligence investment wave—but remain bullish.  Markets will tangle with resurgent inflation, AI capital expenditure concerns and a hawkish Fed over the next six months, the team said, but its broader earnings thesis is still likely to take the  to around 7800 points by the end of the year.
+
+[Read full article](https://finance.yahoo.com/m/204a528b-6bdc-3b21-9c0c-0fb9e8689f62/wall-street-drags-s%26p-500.html?.tsrc=rss)
+
+*Published: Tue, 23 Jun 2026 18:22:00 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-06-22 - Top Stock Market Story
 
 ### The Magnificent 7 Selloff Is a Rare Buying Opportunity
