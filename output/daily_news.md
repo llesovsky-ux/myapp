@@ -1,3 +1,19 @@
+## 2026-06-24 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq, S&P 500 Sink As Oil, Gold Drop; Sandisk Falls But These Telecoms Gain (Live Coverage)
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Stock Market Today: The Dow Jones index rises Wednesday after Tuesday's tech sell-off. FedEx dives on earnings.
+
+[Read full article](https://finance.yahoo.com/m/0d11f791-1b22-3ad3-9a4d-f3fd42d663e5/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss)
+
+*Published: Wed, 24 Jun 2026 18:14:00 +0000*
+
+*Relevance score: 17.5*
+
+---
+
 ## 2026-06-23 - Top Stock Market Story
 
 ### Wall Street Drags S&P 500 Targets Higher, Warning the Rally Is Riskier Than Ever
