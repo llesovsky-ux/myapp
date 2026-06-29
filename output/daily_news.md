@@ -1,3 +1,19 @@
+## 2026-06-29 - Top Stock Market Story
+
+### JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test
+
+**Source:** Business News
+
+The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.
+
+[Read full article](https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html)
+
+*Published: Wed, 24 Jun 2026 21:42:05 GMT*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-06-26 - Top Stock Market Story
 
 ### JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test
