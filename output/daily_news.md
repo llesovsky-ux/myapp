@@ -1,3 +1,19 @@
+## 2026-07-01 - Top Stock Market Story
+
+### Capex spending on AI will power markets higher, expert says
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+STORY: The U.S. stock market faces a gauntlet of tests to keep its rally going in the second half of 2026, from the sustainability of AI spending to a high corporate ​earnings bar and the outlook for interest rates under a Federal Reserve with a new chairman.But Bernstein said AI spending will continue to trickle beyond just Big Tech names and boost earnings across the board.With second quarter earnings season about two weeks away, expectations have been "dramatically increased to 24%," Bernstein said."We're also expecting earnings in the S&amp;P 500 to be up somewhere between 23 and 28% for the year. We're also expecting earnings to grow - small caps, 24%, mid caps about 18%. We never see earnings growth like this unless we're coming out of a deep recession. So the impact on the economy is just tremendous."
+
+[Read full article](https://finance.yahoo.com/video/capex-spending-ai-power-markets-191310327.html?.tsrc=rss)
+
+*Published: Wed, 01 Jul 2026 19:13:10 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-06-30 - Top Stock Market Story
 
 ### JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test
