@@ -1,3 +1,19 @@
+## 2026-07-02 - Top Stock Market Story
+
+### Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense
+
+**Source:** US Top News and Analysis
+
+Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.
+
+[Read full article](https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html)
+
+*Published: Thu, 02 Jul 2026 15:13:11 GMT*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-07-01 - Top Stock Market Story
 
 ### Capex spending on AI will power markets higher, expert says
