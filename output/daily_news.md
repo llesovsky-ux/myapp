@@ -1,3 +1,19 @@
+## 2026-07-03 - Top Stock Market Story
+
+### Tumbling tech shares weigh on Nasdaq; investors assess soft jobs data
+
+**Source:** Yahoo! Finance: ^DJI News
+
+STORY: U.S. stocks closed mixed on Thursday, with the Dow adding more than 1.1% and posting a record closing high, the S&amp;P 500 ending flat and the tech-heavy Nasdaq tumbling eight-tenths of a percent.The Labor Department's nonfarm payrolls report showed the economy added 57,000 jobs in June, far below economists' estimates.That lowered investors' expectations for a rate hike from the Federal Reserve in September to just over 50%, according to CME FedWatch. But Anna Rathbun, founder and CEO of Grenadilla Advisory, said she believes a rate increase may still be on the way due to persistent inflation."I think the Fed interest rate expectations, to expect a hike sometime down the line, I think is a safer bet than expecting a cut." // "I mean, if the Fed is really sticking to that 2% target, we're not going to see that, in my opinion, anytime soon. And that is partly because even if oil prices go down, and it has, and that will be reflected definitely in the headline inflation number. The core inflation [number] - minus fuel, minus food - has consistently been above 2%. So that means, this is my opinion, I think that the equilibrium inflation is probably settling above the Fed's target. That means higher for longer."Among Thursday's stock moves, technology was among the biggest sector decliners in the S&amp;P 500.Chip stocks were especially hard hit, with the Philadelphia semiconductor index down sharply for a second day, shedding about five and a half percent. Shares of Tesla dropped seven and a half percent, even though the electric carmaker posted second-quarter deliveries above estimates. Tesla shares had risen sharply this week ahead of the report.Among other decliners, shares of Bending Spoons tumbled more than 11% a day after the Vimeo owner gained 40% in its Nasdaq debut.Markets will be closed Friday ahead of the Fourth of July holiday.
+
+[Read full article](https://finance.yahoo.com/video/tumbling-tech-shares-weigh-nasdaq-222400355.html?.tsrc=rss)
+
+*Published: Thu, 02 Jul 2026 22:24:00 +0000*
+
+*Relevance score: 23.0*
+
+---
+
 ## 2026-07-02 - Top Stock Market Story
 
 ### Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense
