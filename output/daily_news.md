@@ -1,3 +1,19 @@
+## 2026-07-06 - Top Stock Market Story
+
+### The Second-Biggest Stock Sale in History Hits the Nasdaq Friday, and Chip Stocks Are Ripping
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+SK Hynix, the world’s second-largest memory-chip maker, is coming to the NASDAQ on Friday with the largest stock sale anyone has priced in years, and the chip complex is already pricing it in. CNBC’s Kristina Partsinevelos reported Monday that “SK Hynix plans to raise roughly $28 billion through an American depositary receipts, or ADR, on ... The Second-Biggest Stock Sale in History Hits the Nasdaq Friday, and Chip Stocks Are Ripping
+
+[Read full article](https://247wallst.com/investing/2026/07/06/the-second-biggest-stock-sale-in-history-hits-the-nasdaq-friday-and-chip-stocks-are-ripping/?.tsrc=rss)
+
+*Published: Mon, 06 Jul 2026 18:50:36 +0000*
+
+*Relevance score: 11.0*
+
+---
+
 ## 2026-07-03 - Top Stock Market Story
 
 ### Tumbling tech shares weigh on Nasdaq; investors assess soft jobs data
