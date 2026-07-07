@@ -1,3 +1,19 @@
+## 2026-07-07 - Top Stock Market Story
+
+### Dow Falls 200 Points. Nasdaq Down 1.4%.
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The Dow is down 200 points, or 0.4%, following the Nasdaq and S&amp;P 500 deeper into the red.  Caterpillar stock was the worst-performing Dow component, down 5.6%.  The construction equipment company, which has become an AI infrastructure play, dropped after announcing its acquisition of mining solutions company, Skycatch.
+
+[Read full article](https://finance.yahoo.com/m/54402c84-7043-375b-a149-a09979fc672c/dow-falls-200-points.-nasdaq.html?.tsrc=rss)
+
+*Published: Tue, 07 Jul 2026 15:15:55 +0000*
+
+*Relevance score: 11.0*
+
+---
+
 ## 2026-07-06 - Top Stock Market Story
 
 ### The Second-Biggest Stock Sale in History Hits the Nasdaq Friday, and Chip Stocks Are Ripping
