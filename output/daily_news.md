@@ -1,3 +1,19 @@
+## 2026-07-08 - Top Stock Market Story
+
+### Today's Market: Dow Plunges 800 Points, Nasdaq and S&P 500 Fall 1% After Trump's Iran Warning
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Wall Street Slides After Trump's Iran Warning Ignites Oil Rally
+
+[Read full article](https://finance.yahoo.com/markets/articles/todays-market-dow-plunges-800-163150918.html?.tsrc=rss)
+
+*Published: Wed, 08 Jul 2026 16:31:50 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-07-07 - Top Stock Market Story
 
 ### Dow Falls 200 Points. Nasdaq Down 1.4%.
