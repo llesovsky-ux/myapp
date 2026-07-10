@@ -1,3 +1,19 @@
+## 2026-07-10 - Top Stock Market Story
+
+### SK Hynix opens at $170 on Nasdaq. Chairman tells CNBC 'demand is enormous'
+
+**Source:** US Top News and Analysis
+
+SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.
+
+[Read full article](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html)
+
+*Published: Fri, 10 Jul 2026 16:53:11 GMT*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-07-09 - Top Stock Market Story
 
 ### Investors Are Underestimating This Incredibly Cheap Artificial Intelligence (AI) Stock. Buy It Before It Joins the $2 Trillion Club
