@@ -1,3 +1,19 @@
+## 2026-07-13 - Top Stock Market Story
+
+### SpaceX stock sinks for a second-straight day, nearing $135 IPO price
+
+**Source:** US Top News and Analysis
+
+SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.
+
+[Read full article](https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html)
+
+*Published: Mon, 13 Jul 2026 17:38:49 GMT*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-07-10 - Top Stock Market Story
 
 ### SK Hynix opens at $170 on Nasdaq. Chairman tells CNBC 'demand is enormous'
