@@ -1,3 +1,19 @@
+## 2026-07-14 - Top Stock Market Story
+
+### Stock Futures Rally as Inflation Cools in June
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Stock futures picked up steam after June inflation data cooled more than expected. Nasdaq futures were up 1.3%, while S&amp;P 500 futures were up 0.3%. Dow futures were roughly flat as investors assess what the new economic data means for the Federal Reserve.
+
+[Read full article](https://finance.yahoo.com/m/5f906122-10d1-3dde-aaf3-abb74bec8347/stock-futures-rally-as.html?.tsrc=rss)
+
+*Published: Tue, 14 Jul 2026 12:45:15 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-07-13 - Top Stock Market Story
 
 ### SpaceX stock sinks for a second-straight day, nearing $135 IPO price
