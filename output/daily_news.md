@@ -1,3 +1,19 @@
+## 2026-07-15 - Top Stock Market Story
+
+### Stock Futures Jump. Market Rally Gathers Pace as Earnings Season Ramps Up.
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Stocks looked set to rise again on Wednesday, building on gains from the previous session that were powered by a solid start to the second-quarter earnings season and cooler-than-expected inflation data.  Nasdaq futures climbed 0.3%, and S&amp;P 500 futures rose 0.1%.  The three major indexes all closed in the green on Tuesday, with the Dow eking out a gain thanks to Goldman Sachs and JPMorgan Chase.
+
+[Read full article](https://finance.yahoo.com/m/b5722414-f646-3346-b582-e50f1059657f/stock-futures-jump.-market.html?.tsrc=rss)
+
+*Published: Wed, 15 Jul 2026 12:23:41 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-07-14 - Top Stock Market Story
 
 ### Stock Futures Rally as Inflation Cools in June
