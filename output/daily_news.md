@@ -1,3 +1,19 @@
+## 2026-07-16 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Drops While TSMC Hits Sell Rule; Oil Shipper Steers Into Entry (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Stock Market Today: The Nasdaq composite dropped Thursday as Sandisk and SK Hynix plunged. TSMC sold off on earnings.
+
+[Read full article](https://finance.yahoo.com/m/c5561775-6f2a-30c3-8319-d6feaa5d3578/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Thu, 16 Jul 2026 17:41:31 +0000*
+
+*Relevance score: 9.5*
+
+---
+
 ## 2026-07-15 - Top Stock Market Story
 
 ### Stock Futures Jump. Market Rally Gathers Pace as Earnings Season Ramps Up.
