@@ -1,3 +1,19 @@
+## 2026-07-17 - Top Stock Market Story
+
+### Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout
+
+**Source:** US Top News and Analysis
+
+If the S&amp;P 500 is to make a new record, it may require the "Magnificent Seven" to get back into gear.
+
+[Read full article](https://www.cnbc.com/2026/07/17/obscure-volatility-measure-points-to-a-magnificent-seven-earnings-breakout-.html)
+
+*Published: Fri, 17 Jul 2026 11:36:48 GMT*
+
+*Relevance score: 9.5*
+
+---
+
 ## 2026-07-16 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Drops While TSMC Hits Sell Rule; Oil Shipper Steers Into Entry (Live Coverage)
