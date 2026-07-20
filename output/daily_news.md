@@ -1,3 +1,19 @@
+## 2026-07-20 - Top Stock Market Story
+
+### Is Intel (INTC) Stock a Buy Before Q2 Earnings?
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The parabolic AI trade has sent many chip stocks to the moon, as investors have bet that hyperscalers such as Google, Microsoft, Amazon, and Meta will continue to aggressively expand AI capital expenditures. However, the rally now faces significant headwinds, with valuation and revenue sustainability concerns resurfacing amid rising competition from cheaper Chinese models. The […]
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-buy-q2-170655255.html?.tsrc=rss)
+
+*Published: Mon, 20 Jul 2026 17:06:55 +0000*
+
+*Relevance score: 18.0*
+
+---
+
 ## 2026-07-17 - Top Stock Market Story
 
 ### Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout
