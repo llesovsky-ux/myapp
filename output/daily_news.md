@@ -1,3 +1,19 @@
+## 2026-07-21 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Pops As Alphabet Earnings Loom; Nvidia Partner Soars (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Stock Market Today: The Dow Jones index rises Tuesday as chip stocks Marvell, Micron and Sandisk rally.
+
+[Read full article](https://finance.yahoo.com/m/510d805e-7ef0-3e23-9ea8-d11352e04bb1/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Tue, 21 Jul 2026 17:27:16 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-07-20 - Top Stock Market Story
 
 ### Is Intel (INTC) Stock a Buy Before Q2 Earnings?
