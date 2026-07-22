@@ -1,3 +1,19 @@
+## 2026-07-22 - Top Stock Market Story
+
+### Tech Earnings Will Put a Fragile Stock Market to the Test
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+The stock market could face its sternest test since the Iran war recovery this week, as a key component of the tech-led rally reports second-quarter earnings.  Google parent  Alphabet  the world’s third-largest stock, will update investors on its second quarter activity after the close of trading on Wednesday, likely a few minutes after Elon Musk’s  Tesla  posts results for the three months ending in June.  The reports will kick off a long stretch of big-ticket earnings releases, including  Microsoft Meta Platforms Amazon  and  Apple  next week, as investors face the market’s weeks-long stall.
+
+[Read full article](https://finance.yahoo.com/m/e959f973-74f2-3887-8113-feb3d324c08e/tech-earnings-will-put-a.html?.tsrc=rss)
+
+*Published: Wed, 22 Jul 2026 15:37:00 +0000*
+
+*Relevance score: 21.0*
+
+---
+
 ## 2026-07-21 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Pops As Alphabet Earnings Loom; Nvidia Partner Soars (Live Coverage)
