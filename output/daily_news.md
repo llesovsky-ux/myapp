@@ -1,3 +1,19 @@
+## 2026-07-23 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Pounded As Oil Surges; Honeywell Crosses Trendline (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Nasdaq composite plunged and the Dow Jones Industrial Average moved sharply lower Thursday as major indexes struggled to lift off their intraday lows.  Google-parent Alphabet and Tesla led the sell-off on the stock market today after their quarterly earnings reports.  In Thursday morning action, the tech-heavy Nasdaq composite plunged 2.3%, though it fell as much as 2.8% at one point.
+
+[Read full article](https://finance.yahoo.com/m/e94a43e0-7ab5-3e5d-a5df-9ae321464787/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Thu, 23 Jul 2026 18:05:15 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-07-22 - Top Stock Market Story
 
 ### Tech Earnings Will Put a Fragile Stock Market to the Test
