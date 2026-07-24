@@ -1,3 +1,19 @@
+## 2026-07-24 - Top Stock Market Story
+
+### UBS Says It’s Time to Diversify — These Are Its 2 Stock Picks
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Wall Street pulled back on Thursday after the S&amp;P 500 had spent recent weeks trading near record territory. The index fell 1.2%, while the Nasdaq dropped 2.15%, as investors digested disappointing earnings from several large tech companies, heavier AI spending plans, higher oil prices, and rising Treasury yields.Claim 55% Off TipRanks Unlock powerful investing tools with TipRanks Premium to make smarter, more confident investment decisions Subscribe to TipRanks Smart Investor Newsletter, and dis
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/ubs-says-time-diversify-2-175500280.html?.tsrc=rss)
+
+*Published: Fri, 24 Jul 2026 17:55:00 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-07-23 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Pounded As Oil Surges; Honeywell Crosses Trendline (Live Coverage)
