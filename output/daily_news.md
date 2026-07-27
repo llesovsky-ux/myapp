@@ -1,3 +1,19 @@
+## 2026-07-27 - Top Stock Market Story
+
+### US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Dow and S&amp;P 500 futures gain 0.8% and Nasdaq futures 1.4% ahead of Microsoft, Meta, Apple and Amazon results and Wednesday's Fed call.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/us-futures-rise-megacap-earnings-170443204.html?.tsrc=rss)
+
+*Published: Mon, 27 Jul 2026 17:04:43 +0000*
+
+*Relevance score: 17.5*
+
+---
+
 ## 2026-07-24 - Top Stock Market Story
 
 ### UBS Says It’s Time to Diversify — These Are Its 2 Stock Picks
