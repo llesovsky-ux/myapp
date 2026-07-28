@@ -1,3 +1,19 @@
+## 2026-07-28 - Top Stock Market Story
+
+### Bitcoin miner and AI firm Ionic Digital valued at $2.25 billion in Nasdaq debut
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Ionic Digital, a bitcoin miner and AI infrastructure provider, secured a valuation of about $2.25 billion after its shares ‌fell in the Nasdaq debut on Tuesday.  Shares of the company, which ‌went public through direct listing, opened at $50 apiece, down nearly 5.7% from a reference price of $53 ​set by the Nasdaq on Monday.  The tepid debut underscores the volatility in global markets, with investors scrutinizing the need for aggressive spending to build out AI capabilities.
+
+[Read full article](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-ionic-digital-valued-160541228.html?.tsrc=rss)
+
+*Published: Tue, 28 Jul 2026 16:05:41 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-07-27 - Top Stock Market Story
 
 ### US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week
