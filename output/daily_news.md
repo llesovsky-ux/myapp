@@ -1,3 +1,19 @@
+## 2026-07-29 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq, Dow Pare Losses As Fed Stands Pat On Key Rate; Meta Wobbles (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Major stock indexes pared losses Wednesday afternoon following the Federal Reserve's decision to keep its benchmark rate unchanged, calming Wall Street's nerves about an imminent rate hike. In stocks, Visa rose after an earnings beat in the stock market today, and Meta Platforms sought firm direction ahead of its earnings report.
+
+[Read full article](https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss)
+
+*Published: Wed, 29 Jul 2026 18:37:01 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-07-28 - Top Stock Market Story
 
 ### Bitcoin miner and AI firm Ionic Digital valued at $2.25 billion in Nasdaq debut
