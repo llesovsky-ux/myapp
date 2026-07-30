@@ -1,3 +1,19 @@
+## 2026-07-30 - Top Stock Market Story
+
+### US stocks, bitcoin gain since Fed held rates steady at July FOMC meeting
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Scott Melker discusses the Federal Reserve's latest decision to hold interest rates steady, examining Fed Chairman Kevin Warsh's remarks and how US stocks (^DJI, ^IXIC, ^GSPC) and crypto like bitcoin (BTC-USD) have reacted. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+[Read full article](https://finance.yahoo.com/video/us-stocks-bitcoin-gain-since-162000444.html?.tsrc=rss)
+
+*Published: Thu, 30 Jul 2026 16:20:00 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-07-29 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq, Dow Pare Losses As Fed Stands Pat On Key Rate; Meta Wobbles (Live Coverage)
