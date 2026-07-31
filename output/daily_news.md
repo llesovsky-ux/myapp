@@ -1,3 +1,19 @@
+## 2026-07-31 - Top Stock Market Story
+
+### Flying Blind: Stock Market Survives White-Knuckle Week Despite Meta and Warsh Meltdowns
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+In Donna Tartt’s The Secret History, the narrator compares the childhood experience of discovering that his father was “not only deluded and ignorant, but incompetent in every way” to “walking into the cockpit of an airplane and finding the pilot and co-pilot passed out drunk in their seats.”  Investors got a taste of that horror on Wednesday, when Federal Reserve Chairman Kevin Warsh explained his decision to keep rates steady with a series of contradictory, confounding, and supremely confident answers to reporters’ questions.  Warsh kicked things off by saying, “For some households, businesses, and market professionals, five years of high inflation have left a mistaken impression…that the Fed’s implicit inflation target was somehow above 2%,” but in fact, “there’s only a target, and it’s 2%.”
+
+[Read full article](https://finance.yahoo.com/m/f3a9d809-92be-3852-937f-433f178f200e/flying-blind%3A-stock-market.html?.tsrc=rss)
+
+*Published: Fri, 31 Jul 2026 17:13:00 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-07-30 - Top Stock Market Story
 
 ### US stocks, bitcoin gain since Fed held rates steady at July FOMC meeting
