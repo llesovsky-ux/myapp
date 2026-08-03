@@ -1,3 +1,19 @@
+## 2026-08-03 - Top Stock Market Story
+
+### Amazon Hits $3 Trillion Market Cap for the First Time as Stock Heads Toward Record
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Amazon shares jumped 5.3% to $285.73 Monday and were on pace for a new all-time closing high, according to Dow Jones Market Data.  Amazon also hit a market value of $3 trillion for the first time ever on Monday.  It’s the fifth company to reach this milestone, after  Apple Microsoft Nvidia  and  Alphabet  Amazon first closed above a $1 trillion market cap on Feb. 4, 2020 and notched a $2 trillion market cap on June 26, 2024.
+
+[Read full article](https://finance.yahoo.com/m/f10b69e1-c9eb-3a99-be98-17914e53d5fc/amazon-hits-%243-trillion.html?.tsrc=rss)
+
+*Published: Mon, 03 Aug 2026 16:08:00 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-07-31 - Top Stock Market Story
 
 ### Flying Blind: Stock Market Survives White-Knuckle Week Despite Meta and Warsh Meltdowns
