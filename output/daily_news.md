@@ -1,3 +1,19 @@
+## 2026-08-04 - Top Stock Market Story
+
+### What's Driving Today's Record-Setting Rally?
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Take your pick between the prospect of a U.S.-Iran peace deal, strong earnings, and a reignited AI trade as reasons the market is on the rise.  The Nasdaq Composite was up 2.6%.  The Trump administration has been vocal about talks it says are ongoing with Iran.
+
+[Read full article](https://finance.yahoo.com/m/6ed184fa-588c-3700-8713-8b0611a3f125/what%27s-driving-today%27s.html?.tsrc=rss)
+
+*Published: Tue, 04 Aug 2026 18:18:36 +0000*
+
+*Relevance score: 14.0*
+
+---
+
 ## 2026-08-03 - Top Stock Market Story
 
 ### Amazon Hits $3 Trillion Market Cap for the First Time as Stock Heads Toward Record
