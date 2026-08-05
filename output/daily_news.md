@@ -1,3 +1,19 @@
+## 2026-08-05 - Top Stock Market Story
+
+### Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams
+
+**Source:** Business News
+
+It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.
+
+[Read full article](https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html)
+
+*Published: Mon, 03 Aug 2026 16:44:25 GMT*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-08-04 - Top Stock Market Story
 
 ### What's Driving Today's Record-Setting Rally?
