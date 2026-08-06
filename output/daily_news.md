@@ -1,3 +1,19 @@
+## 2026-08-06 - Top Stock Market Story
+
+### Stock Market Today, Aug. 6: SoundHound AI Surges 10% on Record Q2 Revenue and Raised 2026 Guidance
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+On Aug. 6, 2026, the voice AI platform posted $61.9M quarterly revenue and extended its post-earnings rally on expanded partnerships across multiple sectors.
+
+[Read full article](https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-soundhound-ai-surges-10-on-record-q2-revenue-and-raised-2026-guidance/?.tsrc=rss)
+
+*Published: Thu, 06 Aug 2026 22:41:32 +0000*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-08-05 - Top Stock Market Story
 
 ### Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams
