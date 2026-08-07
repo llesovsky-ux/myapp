@@ -1,3 +1,19 @@
+## 2026-08-07 - Top Stock Market Story
+
+### Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+The tech sector is chock-full of companies with high-quality earnings growth.
+
+[Read full article](https://www.fool.com/investing/2026/08/07/meet-the-low-cost-vanguard-etf-that-just-gained-11/?.tsrc=rss)
+
+*Published: Fri, 07 Aug 2026 15:47:00 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-08-06 - Top Stock Market Story
 
 ### Stock Market Today, Aug. 6: SoundHound AI Surges 10% on Record Q2 Revenue and Raised 2026 Guidance
