@@ -1,3 +1,19 @@
+## 2026-08-10 - Top Stock Market Story
+
+### Stocks mostly flat with focus on US inflation
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Stock markets were little changed Monday, holding near record highs amid thin summer volumes, as investors awaited inflation data this week for more clues to the interest-rate outlook for the US economy and as oil prices rose.US stocks rose Friday after data surprisingly showed that 23,000 jobs were lost last month, confounding widespread expectations for growth and suggesting that the US Federal Reserve would hold off on raising borrowing costs to contain stubbornly high inflation.
+
+[Read full article](https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-track-wall-st-030542135.html?.tsrc=rss)
+
+*Published: Mon, 10 Aug 2026 15:51:58 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-08-07 - Top Stock Market Story
 
 ### Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.
