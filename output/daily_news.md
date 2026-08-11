@@ -1,3 +1,19 @@
+## 2026-08-11 - Top Stock Market Story
+
+### Riot, NIQ surge, On Holding tumbles premarket
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Investing.com - U.S. stock futures were little changed on Tuesday, as fading hopes for a deal to reopen the Strait of Hormuz kept oil prices elevated, while investors looked ahead to key U.S. inflation data for fresh clues on the Federal Reserve’s interest rate path.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/riot-niq-surge-holding-tumbles-125227369.html?.tsrc=rss)
+
+*Published: Tue, 11 Aug 2026 12:52:27 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-08-10 - Top Stock Market Story
 
 ### Stocks mostly flat with focus on US inflation
