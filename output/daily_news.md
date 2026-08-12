@@ -1,3 +1,19 @@
+## 2026-08-12 - Top Stock Market Story
+
+### S&P 500 hits record high after July CPI data; CoreWeave stock jumps 21%
+
+**Source:** Yahoo! Finance: ^DJI News
+
+CoreWeave and Super Micro Computer earnings lifted AI-linked stocks, while cooling inflation reduced pressure on the Fed to raise rates
+
+[Read full article](https://qz.com/sp500-record-high-cpi-inflation-coreweave-super-micro-081226?.tsrc=rss)
+
+*Published: Wed, 12 Aug 2026 13:54:34 +0000*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-08-11 - Top Stock Market Story
 
 ### Riot, NIQ surge, On Holding tumbles premarket
