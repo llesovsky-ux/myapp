@@ -1,3 +1,19 @@
+## 2026-08-13 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq 100 Leads Upside; Sellers Yank Coach Bag Firm Lower (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Stock Market Today: The Dow Jones index rises Thursday after surprise key inflation data. Cisco and AI stock Cerebras plunge on earnings.
+
+[Read full article](https://finance.yahoo.com/m/a86837ac-df8a-3747-8923-5f2f47063c11/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Thu, 13 Aug 2026 17:56:26 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-08-12 - Top Stock Market Story
 
 ### S&P 500 hits record high after July CPI data; CoreWeave stock jumps 21%
