@@ -1,3 +1,19 @@
+## 2026-08-14 - Top Stock Market Story
+
+### S&P 500 on Pace for Third Week of Gains and Another Record
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The S&amp;P 500 kicked off Friday’s session on pace to end its third straight week of gains with another record. The market benchmark rose 0.1%. The Dow Jones Industrial Average fell 114 points, or 0.2%. The Nasdaq Composite was up 0.
+
+[Read full article](https://finance.yahoo.com/m/50f56551-94f4-3eb2-9659-ee9967f69c7c/s%26p-500-on-pace-for-third.html?.tsrc=rss)
+
+*Published: Fri, 14 Aug 2026 13:33:15 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-08-13 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq 100 Leads Upside; Sellers Yank Coach Bag Firm Lower (Live Coverage)
