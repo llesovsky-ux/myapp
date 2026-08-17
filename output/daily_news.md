@@ -1,3 +1,19 @@
+## 2026-08-17 - Top Stock Market Story
+
+### RBC's Lori Calvasina Sees S&P 500 Upside Despite Fed Risk
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Wall Street traders sent stocks and bonds wavering in the Monday session as fresh Middle East violence stoked concerns about an escalation of the war that has jolted global markets. Following the S&amp;P 500's longest weekly advance since May, the gauge fluctuated. Chipmakers rallied as Anthropic PBC's revenue surge bolstered bets on the artificial-intelligence trade. Brent crude rose to around $89, leaving traders wary about inflationary pressures that could make the Federal Reserve raise rates. Treasury 30-year yields hit the highest since 2007. Lori Calvasina, Head of US Equity Strategy at RBC Capital Markets, explains why Fed policy uncertainty, potential rate hikes and valuation concerns may not be enough to derail the equity rally. She speaks to hosts Tom Keene and Paul Sweeney on Surveillance Radio.
+
+[Read full article](https://finance.yahoo.com/video/rbcs-lori-calvasina-sees-p-162709730.html?.tsrc=rss)
+
+*Published: Mon, 17 Aug 2026 16:27:09 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-08-14 - Top Stock Market Story
 
 ### S&P 500 on Pace for Third Week of Gains and Another Record
