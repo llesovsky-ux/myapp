@@ -1,3 +1,19 @@
+## 2026-08-18 - Top Stock Market Story
+
+### Nasdaq Falls 1.1%. The Chip Stock Rally Is Reversing.
+
+**Source:** Yahoo! Finance: ^DJI News
+
+After pushing chip stocks into a bull market, traders were taking profits in key AI stocks on Tuesday. The Nasdaq Composite fell 1.1%. The Dow Jones Industrial Average fell 200 points, or 0.4%. The S&amp;P 500 dropped 0.
+
+[Read full article](https://finance.yahoo.com/m/ab9f6510-d693-3e57-8cc7-f5dafaf84649/nasdaq-falls-1.1%25.-the-chip.html?.tsrc=rss)
+
+*Published: Tue, 18 Aug 2026 13:33:01 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-08-17 - Top Stock Market Story
 
 ### RBC's Lori Calvasina Sees S&P 500 Upside Despite Fed Risk
