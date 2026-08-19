@@ -1,3 +1,19 @@
+## 2026-08-19 - Top Stock Market Story
+
+### Stocks Rally After Treasury Says It Will Increase Buybacks
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The stock market was rallying Wednesday morning after the Treasury Department said it would double the size of long-dated debt buyback operations.  The Nasdaq Composite was up 0.4%.  The Treasury said it will double liquidity support operations for long-dated nominal coupon securities to $4 billion per operation starting Sept. 9 through Nov. 4.
+
+[Read full article](https://finance.yahoo.com/m/4f0b84a7-65f3-3e25-8e49-74a7583698b9/stocks-rally-after-treasury.html?.tsrc=rss)
+
+*Published: Wed, 19 Aug 2026 13:38:14 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-08-18 - Top Stock Market Story
 
 ### Nasdaq Falls 1.1%. The Chip Stock Rally Is Reversing.
