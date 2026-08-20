@@ -1,3 +1,19 @@
+## 2026-08-20 - Top Stock Market Story
+
+### This Tractor Maker Is The S&P 500's Top Gainer After Sales Touch $11B Despite Sluggish Farming Economy
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+John Deere stock jumped after surpassing third-quarter earnings expectations, even as lower crop prices, high interest rates, and reduced farm equipment sales weigh heavily on the broader agricultural market.
+
+[Read full article](https://stocktwits.com/news-articles/markets/equity/de-stock-jumps-and-is-s-and-p-500-s-top-gainer-after-sales-touch-11-b-despite-sluggish-farming-economy/cZYIw7SRJZl?.tsrc=rss)
+
+*Published: Thu, 20 Aug 2026 17:51:47 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-08-19 - Top Stock Market Story
 
 ### Stocks Rally After Treasury Says It Will Increase Buybacks
