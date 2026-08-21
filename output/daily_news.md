@@ -1,3 +1,19 @@
+## 2026-08-21 - Top Stock Market Story
+
+### Why Is Bitmine Immersion Stock Surging Friday?
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Bitmine Immersion Technologies Inc. (NYSE:BMNR) stock surged Friday, extending its gains from Thursday. Nasdaq futures rose 0.67%, while S&amp;P 500 futures gained 0.43%.The move came as Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) rallied, boosting the value of Bitmine’s digital asset holdings. On Friday, Bitcoin rose 7.08% over 24 hours to $76,787.17, while Ethereum increased 4.14% to $2,371.83, according to CoinMarketCap.Management Update Details HoldingsOn Monday, management released an upda
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/why-bitmine-immersion-stock-surging-123609995.html?.tsrc=rss)
+
+*Published: Fri, 21 Aug 2026 12:36:09 +0000*
+
+*Relevance score: 14.0*
+
+---
+
 ## 2026-08-20 - Top Stock Market Story
 
 ### This Tractor Maker Is The S&P 500's Top Gainer After Sales Touch $11B Despite Sluggish Farming Economy
