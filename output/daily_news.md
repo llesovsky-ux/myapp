@@ -1,3 +1,19 @@
+## 2026-08-24 - Top Stock Market Story
+
+### Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today’s Market
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+FEATURE  Stocks were mostly lower on Monday with the major indexes weighed down by falling artificial-intelligence stocks ahead of Nvidia key earnings and Federal Reserve Chairman Kevin Warsh’s Jackson Hole comments later this week.
+
+[Read full article](https://finance.yahoo.com/m/7eb54b1a-9c04-36c6-9efc-08ba3ba3c669/marvell%2C-micron%2C-spacex%2C.html?.tsrc=rss)
+
+*Published: Mon, 24 Aug 2026 18:08:00 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-08-21 - Top Stock Market Story
 
 ### Why Is Bitmine Immersion Stock Surging Friday?
