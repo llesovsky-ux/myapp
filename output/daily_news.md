@@ -1,3 +1,19 @@
+## 2026-08-25 - Top Stock Market Story
+
+### Stock Market Today (Aug. 25, 2026): Nasdaq, Russell 2000 climbs ahead of Nvidia earnings, Fed symposium
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Investors are also awaiting the release of the Federal Reserve’s preferred inflation gauge, the personal consumption expenditures price index.
+
+[Read full article](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-25-2026?.tsrc=rss)
+
+*Published: Tue, 25 Aug 2026 13:43:15 +0000*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-08-24 - Top Stock Market Story
 
 ### Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today’s Market
