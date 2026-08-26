@@ -1,3 +1,19 @@
+## 2026-08-26 - Top Stock Market Story
+
+### Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.
+
+[Read full article](https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures-await.html?.tsrc=rss)
+
+*Published: Wed, 26 Aug 2026 12:00:11 +0000*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-08-25 - Top Stock Market Story
 
 ### Stock Market Today (Aug. 25, 2026): Nasdaq, Russell 2000 climbs ahead of Nvidia earnings, Fed symposium
