@@ -1,3 +1,19 @@
+## 2026-08-28 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The tech-heavy Nasdaq composite spent the entire session as the best-performing among major indexes Thursday as Wall Street reacted to big earnings reports, with Nvidia, Salesforce and CrowdStrike soaring on the stock market today.  Nvidia broke out past a proper buy point.  Gains were led by its tech components, including Nvidia, Salesforce, IBM and Microsoft.
+
+[Read full article](https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Thu, 27 Aug 2026 20:51:20 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-08-26 - Top Stock Market Story
 
 ### Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area
