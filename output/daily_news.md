@@ -1,3 +1,19 @@
+## 2026-08-29 - Top Stock Market Story
+
+### How major US stock indexes fared Friday 8/28/2026
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The bond market swung as investors built bets that the Federal Reserve may hike interest rates soon to get the nation’s high inflation under control.  U.S. stocks, meanwhile, dipped Friday but not by much after economists said a speech by Chairman Kevin Warsh helped strengthen faith that the Fed will do what’s needed to bring inflation down, even if it causes pain for the economy in the short term.  The Nasdaq composite fell 138.93 points, or 0.5%, to 26,402.42.
+
+[Read full article](https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201958418.html?.tsrc=rss)
+
+*Published: Fri, 28 Aug 2026 20:19:58 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-08-28 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Up, Nvidia Teases New Entry As Salesforce Nears Buy Point (Live Coverage)
