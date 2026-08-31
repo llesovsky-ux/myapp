@@ -1,3 +1,19 @@
+## 2026-08-31 - Top Stock Market Story
+
+### Stocks Wrap Best August Since 2021. September Could Be Tricky.
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The S&amp;P 500 fell 0.3%, while the Nasdaq Composite dropped 0.1%.  Baird's Ross Mayfield credits the month-end weakness to the uptick in oil prices fueled by reignited fighting in Iran.  Despite Monday's weakness, all three major indexes ended the month higher, with the S&amp;P 500 and the Nasdaq recording their best August performances since 2021, rising 2.6% and 3.9%, respectively.
+
+[Read full article](https://finance.yahoo.com/m/f0919d74-9f48-3909-b8f8-6f23325d3d27/stocks-wrap-best-august-since.html?.tsrc=rss)
+
+*Published: Mon, 31 Aug 2026 20:03:25 +0000*
+
+*Relevance score: 11.0*
+
+---
+
 ## 2026-08-29 - Top Stock Market Story
 
 ### How major US stock indexes fared Friday 8/28/2026
