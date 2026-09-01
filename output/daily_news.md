@@ -1,3 +1,19 @@
+## 2026-09-01 - Top Stock Market Story
+
+### Apple Rises 3% on John Ternus’s First Day as CEO Even While the NASDAQ Skids
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+John Ternus stepped into the CEO role at Apple on a day when rising Treasury yields cracked the AI infrastructure trade wide open, and the reason Apple surged while Oracle cratered reveals a structural fault line forming beneath the entire technology sector.
+
+[Read full article](https://247wallst.com/investing/2026/09/01/apple-rises-3-on-john-ternuss-first-day-as-ceo-even-while-nasdaq-skids/?.tsrc=rss)
+
+*Published: Tue, 01 Sep 2026 16:52:28 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-08-31 - Top Stock Market Story
 
 ### Stocks Wrap Best August Since 2021. September Could Be Tricky.
