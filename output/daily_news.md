@@ -1,3 +1,19 @@
+## 2026-09-02 - Top Stock Market Story
+
+### Dow Adds 300 Points, With Most Stocks Taking Part in the Rally
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The Dow was on the rise early in Wednesday's trading session, and the gains were being felt broadly across the blue-chip index. The Dow Jones Industrial Average was up 0.6%, or 326 points, while the S&amp;P 500 and Nasdaq Composite ticked higher, rising 0.
+
+[Read full article](https://finance.yahoo.com/m/38040d99-e062-3271-abeb-ad0d93435dd8/dow-adds-300-points%2C-with.html?.tsrc=rss)
+
+*Published: Wed, 02 Sep 2026 14:13:43 +0000*
+
+*Relevance score: 11.0*
+
+---
+
 ## 2026-09-01 - Top Stock Market Story
 
 ### Apple Rises 3% on John Ternus’s First Day as CEO Even While the NASDAQ Skids
