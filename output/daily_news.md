@@ -1,3 +1,19 @@
+## 2026-09-03 - Top Stock Market Story
+
+### Dow Adds 650 Points in Midday Rally
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Stocks climbed as Wall Street let out a sigh of relief that bond yields ticked lower and the odds of a Federal Reserve rate hike fell. The S&amp;P 500 gained 1%, and the Nasdaq Composite rose 1.4%. The Dow Jones Industrial Average added 1.
+
+[Read full article](https://finance.yahoo.com/m/1c626841-d0fe-387a-ab47-4effa857f343/dow-adds-650-points-in-midday.html?.tsrc=rss)
+
+*Published: Thu, 03 Sep 2026 15:38:05 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-09-02 - Top Stock Market Story
 
 ### Dow Adds 300 Points, With Most Stocks Taking Part in the Rally
