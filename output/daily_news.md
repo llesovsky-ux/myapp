@@ -1,3 +1,19 @@
+## 2026-09-04 - Top Stock Market Story
+
+### 4 Reasons Stocks Aren't Trading Even Lower
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Stocks were in the red on Friday, but they weren't that low given the scale of the jobs report strength relative to consensus estimates.  Second, Federal Reserve Chairman Kevin Warsh has been clear that he's not putting too much weight in individual reports.  Investors are likely shifting focus to next week's inflation reports.
+
+[Read full article](https://finance.yahoo.com/m/8281b6ad-6e30-380e-989b-d1a48fd9c3f8/4-reasons-stocks-aren%27t.html?.tsrc=rss)
+
+*Published: Fri, 04 Sep 2026 15:19:19 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-09-03 - Top Stock Market Story
 
 ### Dow Adds 650 Points in Midday Rally
