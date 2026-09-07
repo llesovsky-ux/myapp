@@ -1,3 +1,19 @@
+## 2026-09-07 - Top Stock Market Story
+
+### The wealth of the world's billionaires reached $15.1 trillion last year, per a new report
+
+**Source:** Business News
+
+The global billionaire count hit a record of 3,795 people last year, with the biggest wealth gains for the richest of the rich, per a recent Altrata report.
+
+[Read full article](https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html)
+
+*Published: Fri, 04 Sep 2026 11:32:55 GMT*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-09-04 - Top Stock Market Story
 
 ### 4 Reasons Stocks Aren't Trading Even Lower
