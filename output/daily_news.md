@@ -1,3 +1,19 @@
+## 2026-09-08 - Top Stock Market Story
+
+### Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Bitcoin is defending its golden zone support while the S&amp;P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call.
+
+[Read full article](https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike?.tsrc=rss)
+
+*Published: Tue, 08 Sep 2026 18:59:35 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-09-07 - Top Stock Market Story
 
 ### The wealth of the world's billionaires reached $15.1 trillion last year, per a new report
