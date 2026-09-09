@@ -1,3 +1,19 @@
+## 2026-09-09 - Top Stock Market Story
+
+### Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Today, Sept. 9, 2026, Brent crude climbed, reigniting inflation concerns as geopolitical tensions weigh on investor sentiment.
+
+[Read full article](https://www.fool.com/coverage/stock-market-today/2026/09/09/stock-market-midday-sept-9-stocks-slide-as-oil-surges-past-usd100-while-meta-gains/?.tsrc=rss)
+
+*Published: Wed, 09 Sep 2026 16:58:00 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-09-08 - Top Stock Market Story
 
 ### Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets
