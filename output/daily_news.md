@@ -1,3 +1,19 @@
+## 2026-09-11 - Top Stock Market Story
+
+### Stock Market Today: Dow Jumps 500 Points, Sets Aside Hot Inflation; NetApp Offers Second Chance (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Friday's inflation report raised the odds of an interest rate hike at next week's Federal Reserve meeting, but investors drove the stock market higher as they weighed a lower risk of larger rate hikes further down the tightening cycle.  Meanwhile, NetApp made a second breakout attempt and offered an entry.  The Dow Jones Industrial Average rose 1%, or more than 500 points, as the S&amp;P 500 also moved up 1%.
+
+[Read full article](https://finance.yahoo.com/m/061e595e-cb5c-3c1c-90f4-b7b5e8176ae4/stock-market-today%3A-dow-jumps.html?.tsrc=rss)
+
+*Published: Fri, 11 Sep 2026 19:19:20 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-09-10 - Top Stock Market Story
 
 ### 9-10-2026: Oil Spikes, Yields Surge + AI Momentum Ahead of Fed Meeting
