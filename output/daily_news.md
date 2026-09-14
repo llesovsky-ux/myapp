@@ -1,3 +1,19 @@
+## 2026-09-14 - Top Stock Market Story
+
+### The Fed is likely to raise interest rates as inflation persists. What that means for consumers
+
+**Source:** US Top News and Analysis
+
+The Federal Reserve is widely expected to raise its benchmark interest rate by a quarter percentage point at its September meeting.
+
+[Read full article](https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html)
+
+*Published: Mon, 14 Sep 2026 17:42:05 GMT*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-09-11 - Top Stock Market Story
 
 ### Stock Market Today: Dow Jumps 500 Points, Sets Aside Hot Inflation; NetApp Offers Second Chance (Live Coverage)
