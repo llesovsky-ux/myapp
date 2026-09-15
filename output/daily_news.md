@@ -1,3 +1,19 @@
+## 2026-09-15 - Top Stock Market Story
+
+### Stock Market Today: Dow Dives With Fed Seen Doing This; Senate Vote Hits These Crypto Stocks (Live Coverage)
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones index drops on the stock market today as yields and oil spike. Bitcoin and crypto stocks fall after a key vote.
+
+[Read full article](https://finance.yahoo.com/m/8af6acb0-32f5-3a96-97ee-647dd408ed1b/stock-market-today%3A-dow-dives.html?.tsrc=rss)
+
+*Published: Tue, 15 Sep 2026 20:38:10 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-09-14 - Top Stock Market Story
 
 ### The Fed is likely to raise interest rates as inflation persists. What that means for consumers
