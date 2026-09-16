@@ -1,3 +1,19 @@
+## 2026-09-16 - Top Stock Market Story
+
+### S&P 500 Gains, Crude Falls Ahead Of Fed's Expected First Hike Since 2023: Stock Market Today
+
+**Source:** Yahoo! Finance: ^DJI News
+
+A sharp reversal in crude oil handed U.S. equities a reprieve on Wednesday, with stocks grinding higher off six-week lows just hours before the Federal Reserve is expected to raise interest rates for the first time since 2023. The S&amp;P 500 added 0.4% to 7,615.70, while the Dow Jones Industrial Average was effectively flat at 52,113. The Nasdaq 100 outperformed, rising 0.9% to 29,198 as hardware and semiconductor names extended Tuesday’s rebound from AI-safety jitters. U.S. Energy Secretary Chris
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/p-500-gains-crude-falls-165200854.html?.tsrc=rss)
+
+*Published: Wed, 16 Sep 2026 16:52:00 +0000*
+
+*Relevance score: 21.0*
+
+---
+
 ## 2026-09-15 - Top Stock Market Story
 
 ### Stock Market Today: Dow Dives With Fed Seen Doing This; Senate Vote Hits These Crypto Stocks (Live Coverage)
