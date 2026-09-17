@@ -1,3 +1,19 @@
+## 2026-09-17 - Top Stock Market Story
+
+### S&P 500 Surges 1%, Breaking Losing Streak With Tech-Led Rally
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Stocks bounced back on Thursday, more than making up for the Federal Reserve decision-driven downturn seen in the prior session. The tech-heavy Nasdaq Composite led gains, up 1.7%, but that's not to say the rally was concentrated to one area of the market.
+
+[Read full article](https://finance.yahoo.com/m/510e0f42-c792-3f32-ad3a-93c5d91357be/s%26p-500-surges-1%25%2C-breaking.html?.tsrc=rss)
+
+*Published: Thu, 17 Sep 2026 20:02:38 +0000*
+
+*Relevance score: 19.0*
+
+---
+
 ## 2026-09-16 - Top Stock Market Story
 
 ### S&P 500 Gains, Crude Falls Ahead Of Fed's Expected First Hike Since 2023: Stock Market Today
