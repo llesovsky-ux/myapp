@@ -1,3 +1,19 @@
+## 2026-09-18 - Top Stock Market Story
+
+### Bitcoin Is Rallying and Coinbase Is Today’s Best Stock in the S&P 500 Against All the Odds
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The collapse of the Clarity Act and a Federal Reserve interest-rate hike ought to have been a toxic combination for  Bitcoin  but the world’s largest cryptocurrency was showing its resilience on Friday.  The token has risen 5.7% to $80,884 over the past 24 hours, according to CoinDesk.  Shares of Bitcoin investor  Strategy  rose 15% on Friday.
+
+[Read full article](https://finance.yahoo.com/m/e25155b5-f547-30d8-8d06-525381605868/bitcoin-is-rallying-and.html?.tsrc=rss)
+
+*Published: Fri, 18 Sep 2026 18:32:00 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-09-17 - Top Stock Market Story
 
 ### S&P 500 Surges 1%, Breaking Losing Streak With Tech-Led Rally
