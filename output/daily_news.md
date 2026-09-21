@@ -1,3 +1,19 @@
+## 2026-09-21 - Top Stock Market Story
+
+### Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Today, Sept. 21, 2026, semiconductor stocks surged on AI demand while Bitcoin topped $87,000, offsetting energy sector weakness.
+
+[Read full article](https://www.fool.com/coverage/stock-market-today/2026/09/21/stock-market-today-sept-21-tech-strength-powers-nasdaq-to-record-close/?.tsrc=rss)
+
+*Published: Mon, 21 Sep 2026 21:22:22 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-09-18 - Top Stock Market Story
 
 ### Bitcoin Is Rallying and Coinbase Is Today’s Best Stock in the S&P 500 Against All the Odds
