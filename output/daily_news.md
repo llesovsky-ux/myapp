@@ -1,3 +1,19 @@
+## 2026-09-22 - Top Stock Market Story
+
+### Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.
+
+[Read full article](https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides?.tsrc=rss)
+
+*Published: Tue, 22 Sep 2026 18:46:03 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-09-21 - Top Stock Market Story
 
 ### Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close
