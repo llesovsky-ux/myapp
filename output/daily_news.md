@@ -1,3 +1,19 @@
+## 2026-09-23 - Top Stock Market Story
+
+### Microsoft Can’t Hold $500 While the Nasdaq Hits a Record. What’s Going On?
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+The Nasdaq keeps hitting records while Microsoft stalls below a key price level, and the reason has nothing to do with the job cuts making headlines. Three forces are quietly squeezing the multiple on one of the most fundamentally sound businesses in tech.
+
+[Read full article](https://247wallst.com/investing/2026/09/23/microsoft-cant-hold-500-while-the-nasdaq-hits-a-record-whats-going-on/?.tsrc=rss)
+
+*Published: Wed, 23 Sep 2026 16:52:57 +0000*
+
+*Relevance score: 12.0*
+
+---
+
 ## 2026-09-22 - Top Stock Market Story
 
 ### Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes
