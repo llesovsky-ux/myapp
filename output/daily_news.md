@@ -1,3 +1,19 @@
+## 2026-09-24 - Top Stock Market Story
+
+### 9-24-2026: Trump-Xi Summit, Surging Yields + AI Disruption Trade Fears
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Michael Reinking, Senior Market Strategist at the NYSE, reviews a dynamic week in which the S&amp;P 500 held modest gains despite poor breadth and surging Treasury yields. Strong flash PMI data fueled inflation worries, while Meta's new AI agent Muse sparked a fresh disruption trade across wealth managers, brokerages, and travel names. Oil prices swung sharply on shifting Middle East diplomacy headlines all week. President Trump and Xi Jinping met at the White House extending their trade truce through January while easing broader market jitters. Looking ahead, next week brings PCE inflation data, key earnings from Nike and Micron, and OpenAI's anticipated Dev Day.
+
+[Read full article](https://finance.yahoo.com/video/9-24-2026-trump-xi-193312855.html?.tsrc=rss)
+
+*Published: Thu, 24 Sep 2026 19:33:12 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-09-23 - Top Stock Market Story
 
 ### Microsoft Can’t Hold $500 While the Nasdaq Hits a Record. What’s Going On?
