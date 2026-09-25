@@ -1,3 +1,19 @@
+## 2026-09-25 - Top Stock Market Story
+
+### S&P 500 and Nasdaq Less Than 1% Off Highs
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Stocks rebounded, nearing records, during Friday's session. The S&amp;P 500 was up 0.5% at 7740.85, just 0.7% from its high of 7798.99 set Aug. 13. The Nasdaq Composite was up 0.5%, off 0.6% from its respective record.
+
+[Read full article](https://finance.yahoo.com/m/8dd73a4c-bfa1-3fc5-871a-bd13f85807e6/s%26p-500-and-nasdaq-less-than.html?.tsrc=rss)
+
+*Published: Fri, 25 Sep 2026 18:50:22 +0000*
+
+*Relevance score: 9.5*
+
+---
+
 ## 2026-09-24 - Top Stock Market Story
 
 ### 9-24-2026: Trump-Xi Summit, Surging Yields + AI Disruption Trade Fears
