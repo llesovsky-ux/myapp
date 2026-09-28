@@ -1,3 +1,19 @@
+## 2026-09-28 - Top Stock Market Story
+
+### Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies
+
+**Source:** US Top News and Analysis
+
+Sen. Elizabeth Warren is asking the leaders of Meta, Google, Amazon and Microsoft about AI and data center subsidies authorized by GOP legislation.
+
+[Read full article](https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html)
+
+*Published: Mon, 28 Sep 2026 20:49:53 GMT*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-09-25 - Top Stock Market Story
 
 ### S&P 500 and Nasdaq Less Than 1% Off Highs
