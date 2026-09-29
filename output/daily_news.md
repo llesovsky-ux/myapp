@@ -1,3 +1,19 @@
+## 2026-09-29 - Top Stock Market Story
+
+### Nasdaq Stages Afternoon Rebound as October Hike Odds Drop
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Hopes the Federal Reserve may not raise interest rates—at least in October—helped the stock market rally off its lows on Tuesday.
+
+[Read full article](https://finance.yahoo.com/m/519b56c0-e5d2-3ae6-8f69-b79f730d7dd0/nasdaq-stages-afternoon.html?.tsrc=rss)
+
+*Published: Tue, 29 Sep 2026 20:01:47 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-09-28 - Top Stock Market Story
 
 ### Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies
