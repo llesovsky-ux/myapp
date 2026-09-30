@@ -1,3 +1,19 @@
+## 2026-09-30 - Top Stock Market Story
+
+### The S&P 500 Is Up in September, but Market Breadth Has Been Terrible
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The S&amp;P 500 may narrowly end the month of September with a gain.  The market benchmark is up 0.2% on the month, while the Nasdaq Composite is up 2.4%.  The S&amp;P’s second-consecutive monthly gain included major assists from Meta Platforms and Apple.
+
+[Read full article](https://finance.yahoo.com/m/f3756a24-e73e-34a4-9535-d957809363dd/the-s%26p-500-is-up-in.html?.tsrc=rss)
+
+*Published: Wed, 30 Sep 2026 18:10:19 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-09-29 - Top Stock Market Story
 
 ### Nasdaq Stages Afternoon Rebound as October Hike Odds Drop
