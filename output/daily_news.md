@@ -1,3 +1,19 @@
+## 2026-10-01 - Top Stock Market Story
+
+### Google unveils latest AI model, but Wall Street wants a breakout personal agent
+
+**Source:** US Top News and Analysis
+
+Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.
+
+[Read full article](https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html)
+
+*Published: Thu, 01 Oct 2026 19:43:04 GMT*
+
+*Relevance score: 9.5*
+
+---
+
 ## 2026-09-30 - Top Stock Market Story
 
 ### The S&P 500 Is Up in September, but Market Breadth Has Been Terrible
