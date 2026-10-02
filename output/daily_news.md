@@ -1,3 +1,19 @@
+## 2026-10-02 - Top Stock Market Story
+
+### Is AI growth helping markets look past oil and rate hike scares?
+
+**Source:** Yahoo! Finance: ^DJI News
+
+US equities (^DJI, ^IXIC, ^GSPC) are feeling optimistic as the calendar turns to October. But can interest rate hike fears and shocks from rising oil prices (CL=F, BZ=F) stymy growth, or will AI growth continue to drive markets? Today's Market Hang panel consists of Host Turney Duff, Milk Road co-owner Kyle Reidhead, Clocktower Group chief macro strategist Eric Wallerstein, and Washington Crossing Advisors senior portfolio manager Chad Morganlander.
+
+[Read full article](https://finance.yahoo.com/video/ai-growth-helping-markets-look-165650917.html?.tsrc=rss)
+
+*Published: Fri, 02 Oct 2026 16:56:50 +0000*
+
+*Relevance score: 10.0*
+
+---
+
 ## 2026-10-01 - Top Stock Market Story
 
 ### Google unveils latest AI model, but Wall Street wants a breakout personal agent
