@@ -1,3 +1,19 @@
+## 2026-10-06 - Top Stock Market Story
+
+### Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Bitcoin slips as the S&amp;P 500 and Nasdaq close at records on AI optimism. See why crypto is missing the stock rally.
+
+[Read full article](https://beincrypto.com/bitcoin-falls-sp-500-record-high/?.tsrc=rss)
+
+*Published: Tue, 06 Oct 2026 21:53:05 +0000*
+
+*Relevance score: 15.5*
+
+---
+
 ## 2026-10-05 - Top Stock Market Story
 
 ### S&P 500 Closes In on Record High as Tech Rallies
