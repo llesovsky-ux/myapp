@@ -1,3 +1,19 @@
+## 2026-10-07 - Top Stock Market Story
+
+### Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase
+
+**Source:** US Top News and Analysis
+
+Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.
+
+[Read full article](https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html)
+
+*Published: Wed, 07 Oct 2026 21:16:24 GMT*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-10-06 - Top Stock Market Story
 
 ### Bitcoin Price Lags as S&P 500 and Nasdaq Hit Record High
