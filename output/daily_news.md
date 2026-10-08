@@ -1,3 +1,19 @@
+## 2026-10-08 - Top Stock Market Story
+
+### Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip
+
+**Source:** US Top News and Analysis
+
+The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.
+
+[Read full article](https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html)
+
+*Published: Thu, 08 Oct 2026 11:49:39 GMT*
+
+*Relevance score: 9.5*
+
+---
+
 ## 2026-10-07 - Top Stock Market Story
 
 ### Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase
