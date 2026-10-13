@@ -1,3 +1,19 @@
+## 2026-10-13 - Top Stock Market Story
+
+### Bull market turns 4: Buy highs or wait for a dip?
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The S&amp;P 500 bull market turns 4 and the index is holding above 7,800, so LPL Financial’s Adam Turnquist breaks down the key levels to watch, from the 7,600 pullback zone to the 8,000 target. He also covers Nvidia, Microsoft, Citigroup and this week’s big bank earnings, and whether to buy the ...
+
+[Read full article](https://www.thestreet.com/video/bull-market-turns-4-buy-highs-or-wait-for-dip?.tsrc=rss)
+
+*Published: Mon, 12 Oct 2026 21:27:18 +0000*
+
+*Relevance score: 12.0*
+
+---
+
 ## 2026-10-09 - Top Stock Market Story
 
 ### Microsoft is nearing a big milestone that solidifies its revival
