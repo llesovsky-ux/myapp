@@ -1,5 +1,21 @@
 ## 2026-10-13 - Top Stock Market Story
 
+### ArrowMark Financial Corp. Announces Monthly Cash Distribution of $0.15 per Share for October 2026
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+DENVER, Oct. 13, 2026 (GLOBE NEWSWIRE) -- ArrowMark Financial Corp. (Nasdaq: BANX) ("ArrowMark Financial" or the "Company"), an SEC registered closed-end management investment company, today announced that its Board of Directors has declared a monthly cash distribution of $0.15 per share for October 2026. The total distribution of $0.15 per share will be payable on October 30, 2026, to shareholders of record on October 23, 2026. About ArrowMark Financial Corp. ArrowMark Financial Corp. is an SEC
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/arrowmark-financial-corp-announces-monthly-220000112.html?.tsrc=rss)
+
+*Published: Tue, 13 Oct 2026 22:00:00 +0000*
+
+*Relevance score: 11.0*
+
+---
+
+## 2026-10-13 - Top Stock Market Story
+
 ### Bull market turns 4: Buy highs or wait for a dip?
 
 **Source:** Yahoo! Finance: ^GSPC News
