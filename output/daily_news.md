@@ -1,3 +1,19 @@
+## 2026-10-14 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Dives On Rate Hike Jitters, AI Woes; Taiwan Semi Earnings On Deck
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones index wavers Wednesday on a surprise CPI inflation report. Bank of America plunges on earnings.
+
+[Read full article](https://finance.yahoo.com/m/a9aa7eaa-2df2-3f6f-b548-5269d49f67bc/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Wed, 14 Oct 2026 20:27:58 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-10-13 - Top Stock Market Story
 
 ### ArrowMark Financial Corp. Announces Monthly Cash Distribution of $0.15 per Share for October 2026
