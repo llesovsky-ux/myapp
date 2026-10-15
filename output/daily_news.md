@@ -1,3 +1,19 @@
+## 2026-10-15 - Top Stock Market Story
+
+### 10-15-2026: Hot CPI and PPI, Yield Reversal, AI Angst + Staples Rally
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Eric Criscuolo, Market Strategist at the NYSE, reviews a choppy week in which the S&amp;P 500 slipped about 1% after a hot core CPI print sent yields sharply higher, only for a full reversal to offer equities no relief. Tech led the retreat, down roughly 4% with memory names hit hardest, as AI spending doubts and slowing growth at Anthropic fueled the bear case. A hotter PPI and a core retail sales miss then pushed 10 and 30-year yields down 15-20 basis points. Strong breadth lifted the equal-weight index as investors rotated into Staples and Healthcare, both up about 4%. Looking ahead, Meta, Tesla, IBM, SAP, and Blackstone headline a very busy earnings slate.
+
+[Read full article](https://finance.yahoo.com/video/10-15-2026-hot-cpi-192442924.html?.tsrc=rss)
+
+*Published: Thu, 15 Oct 2026 19:24:42 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-10-14 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Dives On Rate Hike Jitters, AI Woes; Taiwan Semi Earnings On Deck
