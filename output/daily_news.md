@@ -1,3 +1,19 @@
+## 2026-10-19 - Top Stock Market Story
+
+### Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Dow Jones Futures: AMD and Nvidia led the AI trade higher Monday following Friday's big losses. Meta, Netflix, SpaceX and Tesla have earnings due.
+
+[Read full article](https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss)
+
+*Published: Mon, 19 Oct 2026 21:30:14 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-10-16 - Top Stock Market Story
 
 ### Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon
