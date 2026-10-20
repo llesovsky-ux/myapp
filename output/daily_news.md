@@ -1,3 +1,19 @@
+## 2026-10-20 - Top Stock Market Story
+
+### How major US stock indexes fared Tuesday 10/20/2026
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+stock market mostly rose following strong profit reports from Equifax, Hasbro and other companies, while oil prices eased back after nearing their highest levels since the war with Iran began. The Dow Jones Industrial Average rose 1%, while drops for several big technology stocks including Apple and Meta Platforms weighed on the Nasdaq composite, which ended down less than 0.
+
+[Read full article](https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202506799.html?.tsrc=rss)
+
+*Published: Tue, 20 Oct 2026 20:25:06 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-10-19 - Top Stock Market Story
 
 ### Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck
