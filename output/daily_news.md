@@ -1,3 +1,19 @@
+## 2026-10-21 - Top Stock Market Story
+
+### Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Nasdaq moved above its 50-day line, led by SpaceX and SuperMicro. Tesla and Meta headlined big earnings late.
+
+[Read full article](https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures%3A-meta%2C.html?.tsrc=rss)
+
+*Published: Wed, 21 Oct 2026 20:58:54 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-10-20 - Top Stock Market Story
 
 ### How major US stock indexes fared Tuesday 10/20/2026
