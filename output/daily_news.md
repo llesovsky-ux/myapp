@@ -1,3 +1,19 @@
+## 2026-10-22 - Top Stock Market Story
+
+### 10-22-2026: Oil Breaks Higher, AI Capex Worries + Yields Retreat Below 5%
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Michael Reinking, Senior Market Strategist at the NYSE, reviews a volatile week as the S&amp;P 500 held near its 100-day average around 7,600 amid AI capex worries. Brent crude rose over 4% to new highs on tanker attacks and a US order for non-emergency personnel to leave Saudi Arabia. Tech reversed its early-week bounce as another data center IPO flopped, while industrials and transports showed resilient demand. Treasuries caught a flight-to-safety bid, with yields down over 10bps and the 10-year back below 5% for the first time in a month. Looking ahead, Fed, ECB, and BOJ rate decisions, Q3 GDP, PCE, and earnings from over 40% of the S&amp;P 500 mark a big week.
+
+[Read full article](https://finance.yahoo.com/video/10-22-2026-oil-breaks-195845766.html?.tsrc=rss)
+
+*Published: Thu, 22 Oct 2026 19:58:45 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-10-21 - Top Stock Market Story
 
 ### Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move
