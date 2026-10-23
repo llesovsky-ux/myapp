@@ -1,3 +1,19 @@
+## 2026-10-23 - Top Stock Market Story
+
+### Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The Dow Jones index drops 650 points Friday as oil prices rally. Bloom, MaxLinear and WDC are big earnings movers.
+
+[Read full article](https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Fri, 23 Oct 2026 20:38:53 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-10-22 - Top Stock Market Story
 
 ### 10-22-2026: Oil Breaks Higher, AI Capex Worries + Yields Retreat Below 5%
