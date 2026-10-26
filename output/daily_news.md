@@ -1,3 +1,19 @@
+## 2026-10-26 - Top Stock Market Story
+
+### The Nasdaq Crashed 700 Points in a Day Last Week. One Major Wall Street Firm is Predicting the Correction Will End After Midterms.
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Nasdaq just suffered a brutal selloff, plunging nearly 700 points in a single trading session as concerns about artificial intelligence spending rattled technology investors. But one major Wall Street firm believes the correction could end after the 2026 midterm elections. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St., examines Morgan Stanley's outlook for the stock market and the potential catalysts that could spark a recovery. With semiconductor stocks under pressure and investor confidence weakening, the biggest questions are whether the Federal Reserve will provide relief, how the midterm elections could affect market sentiment, and whether technology valuations have become attractive again. We'll also examine NVIDIA (NASDAQ: NVDA), whose valuation has fallen significantly despite expectations for continued earnings growth. Could the AI leader represent an opportunity for long-term investors, or are Wall Street's earnings projections too optimistic? Finally, we'll discuss key S&amp;P 500 levels, the risks that could extend this correction, and why the coming weeks could be critical for investors positioning their portfolios for 2027.
+
+[Read full article](https://247wallst.com/videos/the-nasdaq-crashed-700-points-in-a-day-last-week-one-major-wall-street-firm-is-predicting-the-correction-will-end-after-midterms/?.tsrc=rss)
+
+*Published: Mon, 26 Oct 2026 21:18:41 +0000*
+
+*Relevance score: 17.0*
+
+---
+
 ## 2026-10-23 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out
