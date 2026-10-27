@@ -1,3 +1,19 @@
+## 2026-10-27 - Top Stock Market Story
+
+### Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The S&amp;P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.
+
+[Read full article](https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss)
+
+*Published: Tue, 27 Oct 2026 21:34:18 +0000*
+
+*Relevance score: 17.5*
+
+---
+
 ## 2026-10-26 - Top Stock Market Story
 
 ### The Nasdaq Crashed 700 Points in a Day Last Week. One Major Wall Street Firm is Predicting the Correction Will End After Midterms.
