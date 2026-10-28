@@ -1,3 +1,19 @@
+## 2026-10-28 - Top Stock Market Story
+
+### Stock Market Today: Dow, Nasdaq Rise After No Fed Rate Hike; Labcorp Blasts Off
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones index trimmed its gain Wednesday after the Fed held its key interest rate steady. Robinhood slid on earnings.
+
+[Read full article](https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow%2C.html?.tsrc=rss)
+
+*Published: Wed, 28 Oct 2026 20:59:51 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-10-27 - Top Stock Market Story
 
 ### Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap
