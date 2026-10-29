@@ -1,3 +1,19 @@
+## 2026-10-29 - Top Stock Market Story
+
+### Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.
+
+[Read full article](https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html?.tsrc=rss)
+
+*Published: Thu, 29 Oct 2026 22:08:49 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-10-28 - Top Stock Market Story
 
 ### Stock Market Today: Dow, Nasdaq Rise After No Fed Rate Hike; Labcorp Blasts Off
