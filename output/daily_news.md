@@ -1,3 +1,19 @@
+## 2026-10-30 - Top Stock Market Story
+
+### $6.3 billion Binance hack is largest crypto theft on record
+
+**Source:** US Top News and Analysis
+
+Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.
+
+[Read full article](https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html)
+
+*Published: Fri, 30 Oct 2026 21:21:17 GMT*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-10-29 - Top Stock Market Story
 
 ### Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq
