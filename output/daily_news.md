@@ -1,5 +1,21 @@
 ## 2026-11-03 - Top Stock Market Story
 
+### Top Midday Stories: Apple Fiscal Q4 EPS, Revenue Top Estimates, Shares Fall; Meta Reportedly Targeting Up to $25 Billion in Bond Sale
+
+**Source:** Yahoo! Finance: ^DJI News
+
+The S&amp;P 500 Index and Nasdaq Composite were up in late-morning trading Tuesday, while the Dow Jones
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-apple-fiscal-170956313.html?.tsrc=rss)
+
+*Published: Tue, 03 Nov 2026 17:09:56 +0000*
+
+*Relevance score: 13.5*
+
+---
+
+## 2026-11-03 - Top Stock Market Story
+
 ### Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next
 
 **Source:** Yahoo! Finance: ^DJI News
