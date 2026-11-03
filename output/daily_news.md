@@ -1,3 +1,19 @@
+## 2026-11-03 - Top Stock Market Story
+
+### Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Dow Jones Futures: The AI trade dived Monday, while Apple stock dropped on earnings late. The midterm elections are Tuesday.
+
+[Read full article](https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss)
+
+*Published: Mon, 02 Nov 2026 23:40:43 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-10-30 - Top Stock Market Story
 
 ### $6.3 billion Binance hack is largest crypto theft on record
