@@ -1,3 +1,19 @@
+## 2026-11-04 - Top Stock Market Story
+
+### Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.
+
+[Read full article](https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-after.html?.tsrc=rss)
+
+*Published: Wed, 04 Nov 2026 23:04:38 +0000*
+
+*Relevance score: 17.5*
+
+---
+
 ## 2026-11-03 - Top Stock Market Story
 
 ### Top Midday Stories: Apple Fiscal Q4 EPS, Revenue Top Estimates, Shares Fall; Meta Reportedly Targeting Up to $25 Billion in Bond Sale
