@@ -1,3 +1,19 @@
+## 2026-11-05 - Top Stock Market Story
+
+### Dow Jones Futures: Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.
+
+[Read full article](https://finance.yahoo.com/m/0cd2227b-7753-3d54-a8c5-286efe82ac39/dow-jones-futures%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Thu, 05 Nov 2026 23:07:44 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-11-04 - Top Stock Market Story
 
 ### Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.
