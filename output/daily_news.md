@@ -1,3 +1,19 @@
+## 2026-11-06 - Top Stock Market Story
+
+### Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings loom.
+
+[Read full article](https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-market.html?.tsrc=rss)
+
+*Published: Fri, 06 Nov 2026 21:45:10 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-11-05 - Top Stock Market Story
 
 ### Dow Jones Futures: Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI
