@@ -1,5 +1,21 @@
 ## 2026-11-10 - Top Stock Market Story
 
+### Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Nvidia shares extended their sell-off as an investigation involving CEO Jensen Huang raised fresh concerns about corporate governance, leadership uncertainty, and the AI chipmaker's future.
+
+[Read full article](https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-nvidia-stock-plunges-5-5-as-ceo-scandal-overshadows-its-upcoming-earnings-report/?.tsrc=rss)
+
+*Published: Tue, 10 Nov 2026 22:35:02 +0000*
+
+*Relevance score: 11.5*
+
+---
+
+## 2026-11-10 - Top Stock Market Story
+
 ### Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next
 
 **Source:** Yahoo! Finance: ^DJI News
