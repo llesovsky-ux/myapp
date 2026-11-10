@@ -1,3 +1,19 @@
+## 2026-11-10 - Top Stock Market Story
+
+### Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Dow Jones futures were in focus after soaring 1,132 points ahead of the CPI inflation report. Amazon and Tesla rallied, but Nvidia dived.
+
+[Read full article](https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss)
+
+*Published: Mon, 09 Nov 2026 23:27:00 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-11-06 - Top Stock Market Story
 
 ### Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong
