@@ -1,3 +1,19 @@
+## 2026-11-11 - Top Stock Market Story
+
+### Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Wall Street staged a strong recovery Wednesday as enthusiasm for AI infrastructure returned, lifting semiconductor and technology stocks despite persistent concerns about inflation.
+
+[Read full article](https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-stock-market-today-nov-11-nasdaq-surges-as-coreweave-s-25-rally-reignites-the-ai-trade/?.tsrc=rss)
+
+*Published: Wed, 11 Nov 2026 22:45:02 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-11-10 - Top Stock Market Story
 
 ### Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report
