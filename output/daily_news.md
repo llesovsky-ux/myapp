@@ -1,3 +1,19 @@
+## 2026-11-12 - Top Stock Market Story
+
+### Azure Grew 48%, Yet Griffin Securities Downgraded Microsoft (MSFT). Here’s the Catch
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+We just published a list of the 10 Unrivaled Stocks to Buy for the Next Decade and Microsoft (NASDAQ:MSFT) ranked 7th on this list. Wall Street had its worst day since April 2025 last Thursday. The Nasdaq Composite fell 5.5%, the S&amp;P 500 dropped 4.4%, and the Philadelphia Semiconductor Index plunged 12.2%. Two worries drove […]
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/azure-grew-48-yet-griffin-223434737.html?.tsrc=rss)
+
+*Published: Thu, 12 Nov 2026 22:34:34 +0000*
+
+*Relevance score: 13.0*
+
+---
+
 ## 2026-11-11 - Top Stock Market Story
 
 ### Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade
