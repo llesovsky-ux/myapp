@@ -1,3 +1,19 @@
+## 2026-11-13 - Top Stock Market Story
+
+### Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Dow Jones index fell Friday despite cooler-than-expected inflation data. AI giant Nvidia continued to fall.
+
+[Read full article](https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss)
+
+*Published: Fri, 13 Nov 2026 21:49:53 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-11-12 - Top Stock Market Story
 
 ### Azure Grew 48%, Yet Griffin Securities Downgraded Microsoft (MSFT). Here’s the Catch
