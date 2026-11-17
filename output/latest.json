@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-17",
   "top_story": {
-    "title": "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
-    "summary": "The Dow Jones index fell Friday despite cooler-than-expected inflation data. AI giant Nvidia continued to fall.",
-    "published": "Fri, 13 Nov 2026 21:49:53 +0000",
-    "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
-    "source": "Yahoo! Finance: ^GSPC News",
-    "score": 11.5
+    "title": "Tom Lee Sees No Cracks in the AI Trade Despite Nasdaq's 12% Drop",
+    "summary": "Tom Lee says the AI trade is intact even after the Nasdaq fell nearly 12% from its record, as Nvidia faces earnings.",
+    "published": "Tue, 17 Nov 2026 01:00:00 +0000",
+    "link": "https://beincrypto.com/tom-lee-ai-trade-nasdaq-drop/?.tsrc=rss",
+    "source": "Yahoo! Finance: ^IXIC News",
+    "score": 13.5
   }
 }

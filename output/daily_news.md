@@ -1,3 +1,19 @@
+## 2026-11-17 - Top Stock Market Story
+
+### Tom Lee Sees No Cracks in the AI Trade Despite Nasdaq's 12% Drop
+
+**Source:** Yahoo! Finance: ^IXIC News
+
+Tom Lee says the AI trade is intact even after the Nasdaq fell nearly 12% from its record, as Nvidia faces earnings.
+
+[Read full article](https://beincrypto.com/tom-lee-ai-trade-nasdaq-drop/?.tsrc=rss)
+
+*Published: Tue, 17 Nov 2026 01:00:00 +0000*
+
+*Relevance score: 13.5*
+
+---
+
 ## 2026-11-13 - Top Stock Market Story
 
 ### Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility
