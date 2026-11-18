@@ -1,5 +1,21 @@
 ## 2026-11-18 - Top Stock Market Story
 
+### Dow Drops 561 Points. Nvidia Reverses Rally As Fed Signals More Rate Hikes.
+
+**Source:** Yahoo! Finance: ^DJI News
+
+Wall Street ended mixed Wednesday, with the Dow losing 561 points and Nvidia reversing its post-earnings rally as investors weighed inflation risks and the Federal Reserve's interest rate outlook.
+
+[Read full article](https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938?.tsrc=rss)
+
+*Published: Wed, 18 Nov 2026 21:48:05 +0000*
+
+*Relevance score: 15.5*
+
+---
+
+## 2026-11-18 - Top Stock Market Story
+
 ### S&P 500, Dow, Nasdaq Futures Power Ahead On Nvidia Outlook Beat —  NVDA, TSLA, ANT In Focus
 
 **Source:** Yahoo! Finance: ^GSPC News
