@@ -1,3 +1,19 @@
+## 2026-11-18 - Top Stock Market Story
+
+### S&P 500, Dow, Nasdaq Futures Power Ahead On Nvidia Outlook Beat —  NVDA, TSLA, ANT In Focus
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Nvidia beat Q3 expectations and raised its FY28 outlook as its board of directors confirmed no return for Jensen Huang.
+
+[Read full article](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-power-ahead-on-nvidia-outlook-beat-nvda-tsla-ant-in-focus/cNbXjOsR9hh?.tsrc=rss)
+
+*Published: Wed, 18 Nov 2026 00:09:06 +0000*
+
+*Relevance score: 9.5*
+
+---
+
 ## 2026-11-17 - Top Stock Market Story
 
 ### Tom Lee Sees No Cracks in the AI Trade Despite Nasdaq's 12% Drop
