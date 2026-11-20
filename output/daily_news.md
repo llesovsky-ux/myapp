@@ -1,5 +1,21 @@
 ## 2026-11-20 - Top Stock Market Story
 
+### Stock Market Today: Nasdaq Tanks 5% With AI Trade Thrashed; Nvidia, Anthropic Dive
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+The Nasdaq composite tumbles Friday after Thursday's market sell-off. Anthropic stock plunges after its IPO.
+
+[Read full article](https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss)
+
+*Published: Fri, 20 Nov 2026 21:55:21 +0000*
+
+*Relevance score: 13.5*
+
+---
+
+## 2026-11-20 - Top Stock Market Story
+
 ### Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake
 
 **Source:** Yahoo! Finance: ^GSPC News
