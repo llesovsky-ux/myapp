@@ -1,3 +1,19 @@
+## 2026-11-20 - Top Stock Market Story
+
+### Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Strong corporate earnings and a landmark IPO are providing pockets of optimism, but mounting interest rate and valuation concerns continue to undermine investor confidence.
+
+[Read full article](https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/?.tsrc=rss)
+
+*Published: Thu, 19 Nov 2026 23:05:02 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-11-18 - Top Stock Market Story
 
 ### Dow Drops 561 Points. Nvidia Reverses Rally As Fed Signals More Rate Hikes.
