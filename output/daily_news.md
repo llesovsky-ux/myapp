@@ -1,3 +1,19 @@
+## 2026-11-24 - Top Stock Market Story
+
+### Nvidia’s Asian Suppliers Rally as Jensen Huang Returns as CEO: SK Hynix Jumps 8%, SoftBank Shares Rise in Tokyo
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Jensen Huang‘s return as chief executive of Nvidia Corp. (NASDAQ:NVDA) sent shares of its Asian partners and suppliers sharply higher on Tuesday. Asian Markets Rally as US Futures Hold Gains S&amp;P 500 futures edged up 14.25 points, or 0.20%, to 7,268.75 as of around 7:42 p.m. EST on Monday. The Nasdaq 100 futures climbed 1,751.75 points, or 6.97%, to 26,878.25, while the Dow Jones Industrial Average futures rose 1,447.98 points, or 3%, to 49,595.31. In Asia, South Korea’s KOSPI jumped 5.81%, to 4,
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/nvidia-asian-suppliers-rally-jensen-012213841.html?.tsrc=rss)
+
+*Published: Tue, 24 Nov 2026 01:22:13 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-11-20 - Top Stock Market Story
 
 ### Stock Market Today: Nasdaq Tanks 5% With AI Trade Thrashed; Nvidia, Anthropic Dive
