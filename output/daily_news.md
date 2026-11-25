@@ -1,3 +1,19 @@
+## 2026-11-25 - Top Stock Market Story
+
+### Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Investing.com-- U.S. stock futures inched lower on Tuesday evening after the S&amp;P 500 and Nasdaq Composite slipped during the regular session on tech losses, while investors awaited key inflation data for clues on the Federal Reserve's interest-rate outlook.
+
+[Read full article](https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-p-014227385.html?.tsrc=rss)
+
+*Published: Wed, 25 Nov 2026 01:42:27 +0000*
+
+*Relevance score: 15.0*
+
+---
+
 ## 2026-11-24 - Top Stock Market Story
 
 ### Nvidia’s Asian Suppliers Rally as Jensen Huang Returns as CEO: SK Hynix Jumps 8%, SoftBank Shares Rise in Tokyo
