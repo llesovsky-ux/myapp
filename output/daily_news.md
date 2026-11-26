@@ -1,3 +1,19 @@
+## 2026-11-26 - Top Stock Market Story
+
+### Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank
+
+**Source:** US Top News and Analysis
+
+The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.
+
+[Read full article](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html)
+
+*Published: Wed, 25 Nov 2026 14:18:45 GMT*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-11-25 - Top Stock Market Story
 
 ### Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed
