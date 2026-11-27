@@ -1,3 +1,19 @@
+## 2026-11-27 - Top Stock Market Story
+
+### How Far Could the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite Plunge? Nearly 156 Years of History Offers an Answer.
+
+**Source:** Yahoo! Finance: ^DJI News
+
+A valuation tool with an uncanny track record of accurately predicting the future has some unpleasant news for investors.
+
+[Read full article](https://www.fool.com/investing/2026/11/26/how-far-could-dow-sp-500-and-nasdaq-composite-plunge-nearly-156-years-history-offer-answer/?.tsrc=rss)
+
+*Published: Thu, 26 Nov 2026 09:26:02 +0000*
+
+*Relevance score: 12.5*
+
+---
+
 ## 2026-11-26 - Top Stock Market Story
 
 ### Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank
