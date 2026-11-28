@@ -1,3 +1,19 @@
+## 2026-11-28 - Top Stock Market Story
+
+### S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus
+
+**Source:** Yahoo! Finance: ^GSPC News
+
+Meanwhile, the Dow Jones index recorded its best week since October 2022.
+
+[Read full article](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss)
+
+*Published: Fri, 27 Nov 2026 21:29:46 +0000*
+
+*Relevance score: 11.5*
+
+---
+
 ## 2026-11-27 - Top Stock Market Story
 
 ### How Far Could the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite Plunge? Nearly 156 Years of History Offers an Answer.
